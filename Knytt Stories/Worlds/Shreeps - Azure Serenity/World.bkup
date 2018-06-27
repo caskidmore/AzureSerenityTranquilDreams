@@ -1,0 +1,4527 @@
+[World]
+Name=Azure Serenity
+Author=Shreeps
+Description=Wander a mysterious world. (Requires KS+)
+Category A=Challenge
+Category B=Playground
+Difficulty A=Normal
+Difficulty B=Hard
+Difficulty C=Very Hard
+Size=Large
+Format=4
+Clothes=13981517
+Player=1
+Artifact1=CatRed.png
+Artifact2=CatYell.png
+Artifact3=CatBlue.png
+Artifact4=CatPurp.png
+Artifact5=CatGree.png
+Artifact6=CatPink.png
+Artifact7=CatCyan.png
+New=0
+Skin=12900070
+
+[Cutscene Music]
+Intro=21
+Ending=21
+
+[x1000y1000]
+ShiftXMap(A)=-30
+ShiftYMap(A)=5
+ShiftSound(A)=Door
+ShiftEffect(A)=False
+Sign(A)=It's chilly out.
+FlagWarpY(A)=204
+Subtitle=Hub 5 - Vigilant Port
+
+[x1000y998]
+ShiftXMap(A)=-28
+ShiftYMap(A)=3
+Sign(A)=Enter Shreep's house?
+ShiftSound(A)=Door
+
+[x1001y1002]
+Title=Sapphire Cave
+Subtitle=Heroes Melody - Freeplay Music
+
+[x1001y987]
+ShiftXMap(A)=-34
+ShiftYMap(A)=-1
+
+[x1001y988]
+ShiftXPos(A)=5
+ShiftYPos(A)=8
+ShiftXMap(A)=66
+ShiftYMap(A)=11
+ShiftSound(A)=Door
+ShiftQuantize(A)=False
+Sign(A)=Vigilant Port
+Sign(B)=Pinewood Apex
+Sign(C)=Sunken City
+Subtitle=Hub 4 - Enchanted Castle
+ShiftXMap(C)=38
+ShiftYMap(C)=32
+ShiftXPos(C)=-17
+ShiftYPos(C)=3
+ShiftXMap(B)=958
+ShiftYMap(B)=997
+ShiftXPos(B)=21
+ShiftAbsoluteTarget(B)=True
+ShiftYPos(B)=8
+
+[x1001y992]
+Sign(A)=The bricks in this castle are enchanted with magic, you may not climb.
+
+[x1002y1003]
+
+[x1002y983]
+Sign(A)=By my calculations, the Moontube is infested with ninjas!
+
+[x1003y983]
+Sign(A)=Y = Nuke + Cheese + Gregory Stevens^2  
+Sign(B)=Y = HSRTJSR6SERT6KXR658XE5R8XCR769IXR67NSZWE547XZE56T8ICXR69DRM698S4R568S4E568S4R658D5R68DE5
+
+[x1003y998]
+Title=Star Thicket
+Subtitle=Grey and Sad - Nifflas
+
+[x1004y1004]
+Sign(A)=Where do Sith Lords shop?
+Sign2(A)=The Darth Mall!!!!!!!!!!!!
+
+[x1005y994]
+ShiftXMap(A)=-4
+ShiftYMap(A)=-7
+
+[x1006y1004]
+Title=Flower Furrow
+Subtitle=Lights Down Low - Freeplay Music
+
+[x1006y999]
+Sign(A)=Hello, I'm Mr. Carpainter!
+
+[x1007y1025]
+Sign(A)=Be wary in this land, traveller.
+
+[x1008y1025]
+Sign(A)=Strange energies are consuming the land.
+Sign(B)=A castle lies to the east.
+
+[x1009y997]
+WarpX(R)=-43
+
+[x1013y998]
+ShiftXMap(A)=1
+ShiftSound(A)=Door
+ShiftEffect(A)=False
+
+[x1014y998]
+ShiftXMap(A)=-1
+ShiftSound(A)=Door
+ShiftEffect(A)=False
+ShiftXMap(B)=1
+ShiftSound(B)=Switch
+ShiftEffect(B)=False
+ShiftType(A)=1
+ShiftType(B)=1
+ShiftVisible(A)=False
+ShiftVisible(B)=False
+
+[x1015y998]
+ShiftXMap(A)=1002
+ShiftYMap(A)=1037
+ShiftSound(A)=Door
+ShiftEffect(A)=False
+ShiftXMap(B)=-1
+ShiftSound(B)=Switch
+ShiftEffect(B)=False
+ShiftType(B)=1
+ShiftVisible(B)=False
+ShiftType(A)=1
+ShiftVisible(A)=False
+ShiftXPos(A)=9
+ShiftAbsoluteTarget(A)=True
+ShiftYPos(A)=8
+
+[x1016y1007]
+Title=Arcane Peak
+Subtitle=Strange Winter Feeling - Nifflas
+
+[x1017y994]
+Tint=0
+Sign(A)=This is where most of the food in the world is farmed.
+
+[x1017y995]
+Tint=0
+Title=Hazy Grove Cave
+Subtitle=Confiant - Nurykabe
+
+[x1018y1024]
+ShiftFlagOff(A)=Power9
+ShiftSound(A)=None
+ShiftType(A)=3
+ShiftTouch(A)=True
+ShiftEffect(A)=False
+ShiftVisible(A)=False
+ShiftQuantize(A)=False
+ShiftSound(B)=None
+ShiftType(B)=3
+ShiftTouch(B)=True
+ShiftQuantize(B)=False
+ShiftEffect(B)=False
+ShiftVisible(B)=False
+ShiftSound(C)=None
+ShiftType(C)=3
+ShiftTouch(C)=True
+ShiftQuantize(C)=False
+ShiftEffect(C)=False
+ShiftVisible(C)=False
+ShiftFlagOff(B)=Power10
+ShiftFlagOff(C)=Power11
+
+[x1018y1025]
+ShiftSound(A)=None
+ShiftType(A)=3
+ShiftTouch(A)=True
+ShiftQuantize(A)=False
+ShiftEffect(A)=False
+ShiftVisible(A)=False
+ShiftFlagOff(A)=Power8
+
+[x1020y999]
+ShiftXMap(A)=-5
+ShiftYMap(A)=-1
+ShiftSound(A)=Door
+ShiftEffect(A)=False
+ShiftVisible(A)=False
+
+[x1022y981]
+ShiftXMap(A)=7
+ShiftYMap(A)=5
+ShiftSound(A)=Door
+ShiftEffect(A)=False
+Title=Empyreal Marauder Vessel
+Subtitle=Elegy For One - Freeplay Music
+Sign(A)=Yarr, how are ye doing this fine day?
+Sign(B)=Im the friendly galleon drug-dealer.
+
+[x1023y984]
+ShiftXMap(A)=-56
+ShiftYMap(A)=2
+ShiftSound(A)=Door
+ShiftEffect(A)=False
+ShiftXPos(A)=-8
+ShiftYPos(A)=-1
+Title=Empyreal Marauder Vessel
+Subtitle=Elegy For One - Freeplay Music
+
+[x1027y992]
+Title=Mountainshire
+Subtitle=Lone Harvest - Incompetech
+
+[x1028y1004]
+WarpX(R)=-51
+
+[x1028y1011]
+Title=Vigilant City
+Subtitle=Mi Corazon - Freeplay Music  
+
+[x1029y1004]
+WarpX(R)=-53
+[x1046y1011]
+ShiftSound(A)=Door
+ShiftXMap(A)=974
+ShiftYMap(A)=1002
+ShiftXPos(A)=7
+ShiftYPos(A)=6
+ShiftAbsoluteTarget(A)=True
+Sign(A)=^^^^^^^^^^^^^^^^^^   Warp Zone!!! 
+Sign(B)=Shreep's House
+
+[x1059y1021]
+Title=Majestic Garden
+Subtitle=Autumn Nights - Freeplay Music
+
+[x1061y1013]
+Title=Shrine of Vigilance
+Subtitle=Her Former Nightmare - Nifflas
+
+[x1069y1025]
+Title=Stark City
+Subtitle=Memei Notes - Freeplay Music
+Sign(A)=Spare $1,000 sir?
+
+[x1072y1019]
+Title=Numbrock Plateau
+Subtitle=Come to Light - Freeplay Music
+
+[x1077y1015]
+Title=Liquid Dreamscape
+Subtitle=Gently Falling Snow - Freeplay Music
+
+[x921y1000]
+WarpX(L)=27
+
+[x928y1016]
+Title=Sestine Atheneum
+ShiftXMap(A)=186
+ShiftYMap(A)=-2
+ShiftXPos(A)=-6
+ShiftYPos(A)=-1
+ShiftSound(A)=Door
+Subtitle=2hctune - Nifflas
+
+[x933y1000]
+WarpX(L)=15
+
+[x960y1012]
+ShiftYMap(A)=-4
+ShiftSound(A)=Door
+ShiftEffect(A)=False
+Title=Sakura City
+Subtitle=Smooth Sunset - Freeplay Music
+
+[x960y1017]
+Sign(A)=Shreep's House
+Sign(B)=Pinewood
+Sign(C)=Celestial Hollow
+ShiftAbsoluteTarget(A)=True
+ShiftYMap(A)=1002
+ShiftXMap(A)=974
+ShiftXPos(A)=12
+ShiftYPos(A)=6
+ShiftXMap(B)=958
+ShiftYMap(B)=997
+ShiftXPos(B)=7
+ShiftAbsoluteTarget(B)=True
+ShiftYPos(B)=7
+Subtitle=Hub 2 - Sakura City
+ShiftSound(A)=Door
+ShiftXMap(C)=979
+ShiftYMap(C)=994
+ShiftXPos(C)=6
+ShiftYPos(C)=8
+ShiftSound(C)=Door
+ShiftAbsoluteTarget(C)=True
+
+[x960y1083]
+Sign(A)=Welcome to The City of Vigilance.
+
+[x962y1016]
+ShiftXPos(A)=-1
+ShiftYPos(A)=3
+ShiftXMap(A)=12
+ShiftYMap(A)=-14
+ShiftQuantize(A)=False
+ShiftSound(A)=Door
+
+[x967y986]
+ShiftXMap(A)=56
+ShiftSound(A)=Door
+ShiftEffect(A)=False
+ShiftYMap(A)=-2
+ShiftXPos(A)=8
+ShiftYPos(A)=1
+Title=The High Dimensional Rift
+Subtitle=Cymbals - Nifflas
+Sign(A)=Yarr, we be sailing back to the planet through the rift.
+
+[x967y997]
+WarpX(L)=43
+
+[x971y1002]
+ShiftXMap(B)=1
+ShiftSound(B)=Door
+ShiftEffect(B)=False
+WarpX(L)=-23
+
+[x971y1003]
+ShiftXMap(B)=1
+ShiftYMap(B)=-1
+ShiftSound(B)=Door
+ShiftEffect(B)=False
+WarpX(L)=-2
+WarpY(L)=-3
+Subtitle=Crystal's Room
+Sign(A)=Crystal: Here kitty kitty kitty.....
+
+[x972y1001]
+ShiftYMap(A)=-3
+ShiftSound(A)=Door
+ShiftEffect(A)=False
+ShiftXMap(A)=28
+Sign(A)=Exit?
+FlagWarpX(A)=1
+Flag(A)=Power4
+
+[x972y1002]
+ShiftXMap(B)=-1
+ShiftSound(B)=Door
+ShiftEffect(B)=False
+ShiftXMap(A)=1
+ShiftSound(A)=Door
+ShiftEffect(A)=False
+ShiftYMap(C)=1
+ShiftSound(C)=Door
+ShiftEffect(C)=False
+ShiftYMap(B)=1
+Title=Shreep's House
+Subtitle=En varm och mysig plats - Nifflas
+Sign(A)=Crystal's Room
+Sign(B)=Vagabond's "Pad"
+Sign(C)=Shreep's Room
+
+[x972y1003]
+ShiftYMap(A)=-1
+ShiftSound(A)=Door
+ShiftEffect(A)=False
+Sign(A)=The east room will show you the collectables you have yet to get.
+Subtitle=Vagabond's "Pad"
+Sign(B)=Show Full Credits? (Level Spoilers) Requires the eye!
+ShiftAbsoluteTarget(B)=True
+ShiftXMap(B)=850
+ShiftYMap(B)=900
+ShiftXPos(B)=1
+ShiftSound(B)=Electronic
+ShiftYPos(B)=2
+Sign2(B)=This will also show you which areas have items you have not collected yet.
+Sign3(B)=You need to have found the third eye though!
+Sign2(A)=I travel a lot so I can keep track of what you've found.
+
+[x973y1002]
+ShiftXMap(A)=-1
+ShiftSound(A)=Door
+ShiftEffect(A)=False
+Subtitle=Shreep's Room
+Sign(A)=What's up homie?
+Sign(B)=..........
+Sign2(B)=(Denver CO,      Seattle WA,         Las Vegas NV,           Buffalo WY)
+
+[x974y1002]
+Sign(A)=Vigilant City
+Sign(B)=Cascade Sector
+Sign(C)=Sakura City
+ShiftXMap(A)=1046
+ShiftYMap(A)=1011
+ShiftSound(A)=Door
+ShiftXMap(B)=939
+ShiftYMap(B)=1005
+ShiftYMap(C)=15
+ShiftXMap(C)=-14
+ShiftXPos(C)=0
+ShiftYPos(C)=-3
+ShiftSound(C)=Door
+ShiftQuantize(C)=False
+ShiftXPos(A)=14
+ShiftYPos(A)=8
+ShiftType(A)=0
+ShiftAbsoluteTarget(A)=True
+ShiftQuantize(A)=False
+ShiftXPos(B)=16
+ShiftYPos(B)=7
+ShiftAbsoluteTarget(B)=True
+Subtitle=Hub 1 - Shreep's House
+
+[x975y1008]
+ShiftXPos(A)=-8
+ShiftYPos(A)=3
+ShiftXMap(A)=4
+ShiftYMap(A)=-11
+ShiftSound(A)=Door
+ShiftQuantize(A)=False
+agOff(C)=
+Image=30.png
+Tile Width=600
+Tile Height=240
+Image=browncat.png
+Tile Width=48
+Tile Height=24
+Init AnimTo=69
+Init AnimSpeed=100
+Image=BlockStack.png
+Tile Width=22
+Tile Height=12
+Init AnimTo=53
+Init AnimSpeed=100
+Offset Y=6
+Offset X=0
+Image=red30fog.png
+Tile Width=600
+Tile Height=240
+Image=brownmask30fog.png
+Tile Width=600
+Tile Height=240
+Image=lightblue30fog.png
+Tile Width=600
+Tile Height=240
+Image=purple30fog.png
+Tile Width=600
+Tile Height=240
+Image=65242svtlo.png
+Init AnimTo=30
+Init AnimSpeed=250
+Tile Width=24
+Tile Height=24
+Sign(A)=West of here is the swamp and east is the Mystic Grotto and eventually Vigilant Country.
+
+[x977y1004]
+WarpX(L)=53
+
+[x979y996]
+WarpX(L)=-3
+
+[x979y997]
+ShiftXMap(A)=-4
+ShiftYMap(A)=11
+ShiftSound(A)=Door
+ShiftQuantize(A)=False
+ShiftXPos(A)=8
+ShiftYPos(A)=-3
+
+[x980y1008]
+WarpX(L)=47
+
+[x981y1007]
+ShiftXPos(A)=7
+ShiftYPos(A)=1
+ShiftXMap(A)=-34
+ShiftYMap(A)=21
+
+[x982y1007]
+Sign(A)=Vagabond: West of here is the country of the swamp. 
+Sign(B)=Shreep: This cave is made from the fossils of ancient plants.
+
+[x982y985]
+Sign(A)=There are massive magic winds in the sky from energy that wizards release when they cast magic.
+
+[x982y995]
+WarpX(L)=-6
+
+[x983y1007]
+Sign(A)=Crystal: Someone decided to make a horrible spike maze.
+
+[x983y1008]
+Title=Mystic Grotto
+Subtitle=Smooth Persuasion - Freeplay Music
+
+[x988y992]
+Title=Celestial Hollow
+Subtitle=Pause - Nifflas
+Sign(A)=Crystal: Some of these mushrooms are fossils from the stone age.
+
+[x989y992]
+Tint=0
+
+[x992y985]
+WarpX(L)=-9
+
+[x993y985]
+Sign(A)=Beware, Honey on the floors is certainly sticky.
+
+[x994y1020]
+Sign(A)=This is the most peaceful place in the world.
+
+[x995y1006]
+Title=Ancient Veldt
+Subtitle=Time Machine - Nifflas
+
+[x997y991]
+Sign(A)=This way leads to the Thunder Temple.
+
+[x998y1012]
+Sign(A)=Shreep: That coin would be easier to get with a hologram...
+Sign(B)=Any deeper and there is lava!
+
+[x999y1000]
+Title=Quiescent Precipice
+Subtitle=Soul Longing - Freeplay Music
+
+[x999y1008]
+Title=Gloomgrove
+Subtitle=Midnight Notes - Nifflas
+
+[x939y1005]
+ShiftXMap(A)=974
+ShiftYMap(A)=1002
+ShiftXPos(A)=9
+ShiftAbsoluteTarget(A)=True
+ShiftYPos(A)=6
+Sign(A)=Shreep: The rain here is ridiculous, or maybe it's just Heavy Rain.
+Sign(B)=Return to Shreep's House
+[x1039y1019]
+
+ShiftYMap(A)=1
+Subtitle=Obsidian - Freeplay Music
+Title=Sunken City
+[x1039y1020]
+ShiftYMap(A)=-1
+Sign(B)=Enchanted Castle
+Sign(A)=What Up
+ShiftXMap(B)=1001
+ShiftYMap(B)=988
+ShiftXPos(B)=21
+ShiftYPos(B)=5
+ShiftAbsoluteTarget(B)=True
+Sign2(A)=This is my home don'tcha see?
+[x1001y971]
+Title=Primordial Machine
+Subtitle=Middnattsfika - Nifflas
+[x1003y962]
+ShiftXMap(A)=1013
+ShiftYMap(A)=1052
+ShiftXPos(A)=22
+ShiftYPos(A)=7
+ShiftAbsoluteTarget(A)=True
+Subtitle=Hub 13 - Secret Moon Base
+Sign(A)=Languished Forest
+Sign(B)=Asteroid Field
+ShiftXMap(B)=10
+ShiftYMap(B)=5
+ShiftYPos(B)=-1
+ShiftXPos(B)=-1
+Sign(C)=North Pole
+ShiftSound(A)=Door
+ShiftSound(C)=Door
+ShiftXMap(C)=-53
+ShiftYMap(C)=-62
+ShiftXPos(C)=-8
+ShiftYPos(C)=1
+
+[x968y998]
+ShiftXMap(A)=1003
+ShiftYMap(A)=962
+ShiftAbsoluteTarget(A)=True
+ShiftXPos(A)=13
+ShiftYPos(A)=2
+[x958y997]
+Sign(B)=Miraculous Subterrane
+ShiftXMap(A)=1001
+ShiftYMap(A)=988
+ShiftXPos(A)=15
+ShiftYPos(A)=8
+ShiftAbsoluteTarget(A)=True
+Subtitle=Hub 3 - Pinewood
+Sign(A)=Enchanted Castle
+Sign(C)=Sakura City
+ShiftXMap(C)=2
+ShiftYMap(C)=19
+ShiftXPos(C)=9
+ShiftYPos(C)=9
+ShiftAbsoluteTarget(B)=True
+ShiftXMap(B)=997
+ShiftYMap(B)=1009
+ShiftXPos(B)=7
+ShiftYPos(B)=8
+ShiftSound(B)=Door
+[x998y965]
+Title=Spirit Spiral
+Subtitle=Mystery - Nifflas
+[x1007y969]
+Title=The Cheese In The Sky
+Subtitle=Cheese In The Sky - Nifflas
+[x1002y1037]
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=1015
+ShiftYMap(A)=998
+ShiftXPos(A)=9
+ShiftYPos(A)=8
+Title=Unfathomable Shores
+Subtitle=Bryce Canyon - Freeplay Music
+Sign(A)=Welcome to the underwater world!
+[x1013y1052]
+Sign(A)=Secret Moon Base
+Sign(C)=dunno(oldPinewood Apex)
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=1003
+ShiftYMap(A)=962
+ShiftXPos(A)=13
+ShiftYPos(A)=2
+ShiftSound(A)=Door
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=958
+ShiftYMap(C)=997
+ShiftXPos(C)=7
+ShiftSound(C)=Door
+ShiftYPos(C)=7
+Sign(B)=Wizards' Village
+ShiftXMap(B)=1200
+ShiftYMap(B)=1300
+ShiftXPos(B)=15
+ShiftYPos(B)=8
+ShiftAbsoluteTarget(B)=True
+ShiftSound(B)=Door
+Subtitle=Hub 12 - Oceanic Dream
+[x976y1014]
+Title=Eternity's Cleft
+Subtitle=Peacefully Sleep - Freeplay Music
+[x977y997]
+ShiftXMap(A)=969
+ShiftYMap(A)=984
+ShiftVisible(A)=False
+ShiftXPos(A)=8
+ShiftAbsoluteTarget(A)=True
+ShiftYPos(A)=8
+Sign(A)=This passage was built by and leads to the Apocalypse Guild.
+[x969y984]
+ShiftVisible(A)=False
+ShiftXMap(A)=977
+ShiftYMap(A)=997
+ShiftXPos(A)=22
+ShiftAbsoluteTarget(A)=True
+ShiftYPos(A)=7
+Tint=131072
+[x978y994]
+ShiftXMap(A)=969
+ShiftYMap(A)=981
+ShiftXPos(A)=11
+ShiftYPos(A)=3
+ShiftAbsoluteTarget(A)=True
+Sign(A)=That passage goes to Frigid Foothills and the one to the east goes to Sakura City.
+[x969y981]
+ShiftXMap(A)=978
+ShiftVisible(A)=False
+ShiftYMap(A)=994
+ShiftXPos(A)=10
+ShiftAbsoluteTarget(A)=True
+ShiftYPos(A)=7
+ShiftSound(A)=Door
+[x951y991]
+Title=Club Atmos
+Tint=3
+Subtitle=Celebrity Spotlight - Freeplay Music
+Sign(A)=There is a fly here that is driving me crazy!
+Sign(B)=This is the best place to party in the world!
+[x952y991]
+Tint=0
+Sign(A)=Club Atmos
+[x945y991]
+Title=Club Atmos
+Tint=3
+Subtitle=Celebrity Spotlight - Freeplay Music
+[x945y990]
+Title=Skystruction
+Subtitle=Crystal Liquid - Freeplay Music
+Sign(A)=They won't let me operate cranes after "the accident".....
+Sign(B)=Yards are longer than miles right?
+Sign2(B)=No wait meters are longer than ounces.
+[x944y991]
+Tint=0
+Sign(A)=Don't do anything stupid.
+[x943y1016]
+ShiftTouch(A)=True
+ShiftXMap(A)=959
+ShiftYMap(A)=1016
+ShiftEffect(A)=False
+ShiftAbsoluteTarget(A)=True
+ShiftXPos(A)=12
+ShiftYPos(A)=6
+ShiftType(A)=2
+ShiftSound(A)=Electronic
+Sign(A)=Look for the golden butterfly on the left side of the screen.
+
+
+[x995y994]
+Title=Clover Passage
+Subtitle=Peaceful Cave With Ninjas - Nifflas
+[x1004y995]
+Title=Magical Coast
+Subtitle=North & South - D Fast
+Sign(A)=Since I opened my third eye, I can see a secret passage on the right.
+[x1028y992]
+Title=Unearthly Swamp
+Subtitle=King of Cool - Freeplay Music
+[x1043y1026]
+Title=City of the Dark Tide
+Subtitle=Rush Hour 3 A.M. - Nifflas
+[x1022y1013]
+Title=Overgrowth Cove
+Subtitle=Maligned - Freeplay Music
+[x946y1003]
+Tint=2
+[x946y1002]
+Title=Overwhelming Citadel
+Subtitle=Blipbong - Freeplay Music
+[x947y1001]
+[x946y1004]
+Tint=0
+[x1114y987]
+Title=Urban Wasteland
+[x1067y988]
+Title=Mysterious Metropolis
+Subtitle=One of a Hundred Million Streets - Nifflas
+[x1113y988]
+Title=Urban Wasteland
+Subtitle=Island Paradise - Freeplay Music
+[x1027y1077]
+Title=Hadal Abyss
+Subtitle=Silent Depths - Nifflas
+[x899y1007]
+WarpX(L)=231
+WarpY(L)=-19
+Title=Drydust Crag
+Subtitle=Island Paradise - Freeplay Music
+[x1129y988]
+WarpX(R)=-231
+WarpY(R)=19
+Title=Urban Wasteland
+Subtitle=Island Paradise - Freeplay Music
+[x1036y993]
+Title=Crystal Meadow
+[x1026y1003]
+Title=Gentle Prairie
+Subtitle=Very Old - Nifflas
+[x976y994]
+ShiftXMap(A)=-48
+ShiftYMap(A)=21
+ShiftXPos(A)=6
+ShiftYPos(A)=11
+ShiftSound(A)=Door
+Sign(A)=This is a library full of enemies and knowledge, enter at your own peril!  
+[x1004y985]
+Title=Astral Laboratory
+Subtitle=Mega Project - Nifflas
+[x998y986]
+Title=   
+[x999y987]
+Title=Glass Botanical Tower
+Subtitle=Wild Thoughts - Freeplay Music
+[x1017y989]
+Title=Windy Creek Temple
+Subtitle=Low Tide - Freeplay Music
+[x1008y990]
+Title=Storm Ridge
+Subtitle=Then A Kiss - Freeplay Music
+[x1016y994]
+Title=Mountainshire
+Subtitle=Lone Harvest - Incompetech
+Sign(A)=There's a dangerous cave below us, it has the red key though!
+[x1008y1007]
+Title=Undisturbed Crevice
+Subtitle=Time Machine - Nifflas
+[x1021y1011]
+Title=Vigilant Field
+Subtitle=Mi Corazon - Freeplay Music 
+[x995y1004]
+Title=City Mire
+Subtitle=En varm och mysig plats - Nifflas
+[x990y999]
+Title=Submerged Stonework
+Subtitle=Free Rider - Freeplay Music
+[x982y1003]
+Title=Pestilent Morass
+Subtitle=Torvus Clockwork - OCremix (DarkeSword)
+[x987y996]
+Title=Sequin Lagoon
+Subtitle=Evening Notes - Nifflas
+[x977y996]
+Title=Frigid Foothills
+Subtitle=Snowflakes In The Air - Freeplay Music
+Tint=131072
+[x968y997]
+Title=Pinewood Apex
+Subtitle=Forest Birdcussion - OCremix (Protricity)
+Tint=0
+Sign(A)=Crystal: This is Pinewood Village, the Crystal Kingdom is northwest of here.
+[x957y997]
+Title=Hiemal Soulscape
+Subtitle=Forest Birdcussion - OCremix (Protricity)
+
+[x952y994]
+Title=Crystal Kingdom
+Subtitle=Next Stop North Pole - Freeplay Music
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=952
+ShiftYMap(A)=995
+ShiftSound(A)=Door
+ShiftXPos(A)=19
+ShiftYPos(A)=8
+Sign(A)=Welcome to Crystal Kingdom, be sure to check out the shop as well as the nightclub above the city!
+
+[x952y983]
+Title=Valley of the Frozen Moon
+Subtitle=Winter Dreams - Nifflas
+[x978y1004]
+Title=Sinister Sepulcher
+Subtitle=Summer Romance - Freeplay Music
+[x959y1016]
+Title=Blood Bog
+Subtitle=Music Box - Freeplay Music
+[x959y1009]
+Title=Halcyon Copse
+Subtitle=Torvus Clockwork - OCremix (DarkeSword)
+Sign(A)=<: Fen Sanctuary      V: Sakura City       >: Pestilent Morass
+
+[x1011y995]
+Title=Immersed Workshop 
+Subtitle=Unison - Freeplay Music
+[x1085y988]
+Title=Knytt Int'l Airport
+Subtitle=One of a Hundred Million Streets - Nifflas
+[x1021y989]
+Title=Revered Grounds
+Subtitle=Low Tide - Freeplay Music
+[x979y994]
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=960
+ShiftYMap(A)=1017
+ShiftXPos(A)=8
+ShiftYPos(A)=6
+ShiftSound(A)=Door
+Sign(A)=Sakura City
+[x979y985]
+ShiftXMap(B)=521
+ShiftYMap(B)=15
+ShiftYPos(B)=2
+ShiftSound(B)=Door
+Sign(B)=Shifted Sands
+Sign(A)=It's my Magicat!
+Subtitle=Hub 10 - Wizard's City
+Sign(C)=World of Magic
+ShiftXPos(B)=-7
+ShiftXMap(A)=221
+ShiftYMap(A)=315
+ShiftSound(A)=Door
+ShiftXPos(A)=-5
+ShiftYPos(A)=2
+
+[x997y1009]
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=958
+ShiftYMap(A)=997
+ShiftXPos(A)=13
+ShiftYPos(A)=5
+ShiftSound(A)=Door
+Sign(A)=Pinewood Apex
+[x994y1009]
+Title=Miraculous Subterrane
+Subtitle=About The Look - Freeplay Music
+[x949y999]
+Title=Flurry Precipice
+Subtitle=Cinnamon And Mistletoe - Freeplay Music
+[x961y993]
+Title=Fairy Forest
+Subtitle=When I Think Of Mary Ann -  Freeplay Music
+[x1010y1001]
+Title=Reverberating Dysprosium Tunnel
+Subtitle=Reversed - Nifflas
+[x1015y1002]
+Title=Noxious Mountainside
+Subtitle=Very Old - Nifflas
+[x1035y1007]
+Title=Den of Harmony 
+Subtitle=Sunset Harbor - Freeplay Music
+[x1040y997]
+Title=Divine Paradise
+Subtitle=Native Son - Freeplay Music
+[x1021y1013]
+Title=Magma Town
+Subtitle=Maligned - Freeplay Music
+[x1037y986]
+Title=Distorted Daymare
+Subtitle=Chip It Together - Nifflas
+Tint=2
+
+[x1003y992]
+Title=Moonlit Bluffs
+Subtitle=Moonlight Forest Trip - Nifflas
+Sign(A)=Shreep: Soon I'm gonna take a trip to The Cheese in the Sky.
+Sign(B)=Vagabond: Northeast will take you up some cliffs to a holy ground and then the clouds.  
+Sign(C)=An ancient race dropped this Enchanted Castle from the sky long ago.
+[x1093y988]
+Title=Effulgent City
+Subtitle=Everlasting - Freeplay Music 
+[x1013y1046]
+Title=Languished Forest
+Subtitle=Bryce Canyon - Freeplay Music
+[x1018y1050]
+Title=Immersed Everglade
+Subtitle=Coral Reef - Freeplay Music
+[x1010y1055]
+Title=Surfeit Reef
+[x1017y1055]
+Title=Peacefrost Expanse 
+Subtitle=Hallucination - Freeplay Music
+[x1013y1062]
+Title=Diluted Depths
+Subtitle=Beneath the Surface - OCremix (Vigilante)
+[x1026y1068]
+Title=Ocean of Imagination
+Subtitle=Beneath the Surface - OCremix (Vigilante)
+[x1033y1083]
+Title=Endless Chasm of Consciousness 
+Subtitle=Deep Inside - Freeplay Music
+[x992y988]
+Title=Porcelain City
+Subtitle=Cafe Con Leche - Freeplay Music
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=982
+ShiftYMap(A)=988
+ShiftSound(A)=Door
+ShiftXPos(A)=15
+ShiftYPos(A)=2
+[x932y1004]
+Title=Flourishing Plains
+Subtitle=Idyllic Place - Freeplay Music
+[x936y1005]
+Title=Polluted Beach
+Subtitle=Idyllic Place - Freeplay Music
+Sign(A)=There is a ghostly passage around here, but I haven't yet awakened my third eye, 
+[x957y1005]
+Title=Cascade Sector
+Subtitle=Romantic Nights	- Freeplay Music
+[x920y1007]
+Title=Dreg Peninsula
+Subtitle=Sea and Sun - Freeplay Music
+[x927y985]
+Title=Immortal Xenogod
+Subtitle=Heart of The Beast - Incompetech
+[x1002y1004]
+Title=Chthonic Cavern
+Subtitle=En varm och mysig plats - Nifflas
+Sign(A)=Left: Ancient Veldt (Easier Path) Right: Flower Furrow (Slightly Harder than Medium Path)
+[x1037y1011]
+Subtitle=Nightflight - Freeplay Music
+[x1060y1019]
+[x1061y1019]
+[x929y935]
+WarpX(L)=1
+WarpX(R)=-1
+Title=Descent of Damnation
+Subtitle=Unnatural Situation - Incompetech
+Sign(A)=Who dares enter my dimension?!?!?!
+[x929y936]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y937]
+WarpX(R)=-1
+WarpX(L)=1
+[x929y938]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y939]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y940]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y941]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y942]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y943]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y944]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y945]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y946]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y947]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y948]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y949]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y950]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y951]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y952]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y953]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y954]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y955]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y956]
+WarpX(L)=1
+WarpX(R)=-1
+Sign(A)=Tresspassers shall be punished! 
+[x929y957]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y958]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y959]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y960]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y961]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y962]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y963]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y964]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y965]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y966]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y967]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y968]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y969]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y970]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y971]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y972]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y973]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y974]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y975]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y976]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y977]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y978]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y979]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y980]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y981]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y982]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y983]
+WarpX(L)=1
+WarpX(R)=-1
+[x929y984]
+WarpX(L)=1
+WarpX(R)=-1
+[x977y1008]
+Title=Sakura City
+Subtitle=Smooth Sunset - Freeplay Music
+[x949y1009]
+Title=Fen Sanctuary
+Subtitle=Torvus Clockwork - OCremix (DarkeSword)
+[x993y1014]
+Subtitle=About The Look - Freeplay Music
+Title=Cavern of Hibernation
+[x963y1005]
+Title=The Fringe
+Subtitle=Romantic Nights - Freeplay Music
+[x910y1007]
+Title=Drydust Crag
+Subtitle=Island Paradise - Freeplay Music
+[x1000y992]
+Subtitle=Moonlight Forest Trip - Nifflas
+Title=Enchanted Castle
+[x1047y991]
+Title=Distorted Daymare
+Subtitle=Chip It Together - Nifflas
+Tint=0
+[x1011y1053]
+Title=Surfeit Reef
+Subtitle=Unison - Freeplay Music
+
+
+
+[x1040y999]
+WarpX(R)=-1
+WarpX(L)=1
+[x1040y1000]
+WarpX(L)=1
+[x1040y1001]
+WarpX(R)=-1
+WarpX(L)=1
+[x1040y1002]
+WarpX(R)=-1
+WarpX(L)=1
+[x1040y1003]
+WarpX(R)=-1
+WarpX(L)=1
+[x1040y1004]
+WarpX(R)=0
+WarpX(L)=1
+[x1040y1005]
+WarpX(R)=-1
+WarpX(L)=1
+[x1042y1009]
+WarpX(R)=-1
+[x1042y1008]
+WarpX(R)=-1
+[x1042y1007]
+WarpX(R)=-1
+WarpY(U)=1
+[x1038y1008]
+WarpX(L)=1
+[x1038y1007]
+WarpX(L)=1
+[x1038y1006]
+WarpY(U)=1
+[x994y982]
+Title=Phantasm Park
+Subtitle=Nifflas - Secrets
+Sign(B)=Vagabond: I wonder where Shreep is...
+Sign(A)=All the folk living here study magic. 
+[x962y977]
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=963
+ShiftYMap(A)=1022
+ShiftXPos(A)=4
+ShiftTouch(A)=True
+ShiftYPos(A)=4
+ShiftType(A)=2
+ShiftSound(A)=Electronic
+Title=Valley of the Frozen Moon
+Subtitle=Winter Dreams - Nifflas
+[x963y1022]
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=962
+ShiftYMap(A)=977
+ShiftTouch(A)=True
+ShiftType(A)=2
+ShiftSound(A)=Electronic
+ShiftXPos(A)=17
+ShiftYPos(A)=3
+Subtitle=Community - Freeplay Music
+[x968y1025]
+Title=Arithmetic Area
+Subtitle=Community - Freeplay Music
+[x974y1016]
+Title=Seam Stretch
+Subtitle=Community - Freeplay Music
+[x985y985]
+Title=Thunder Temple
+Subtitle=Porcelain - Freeplay Music
+[x978y986]
+WarpX(R)=-1
+[x978y987]
+WarpX(R)=-1
+[x978y988]
+WarpX(R)=-1
+[x942y995]
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=942
+ShiftYMap(A)=991
+ShiftXPos(A)=15
+ShiftYPos(A)=7
+ShiftSound(A)=Door
+ShiftAbsoluteTarget(B)=True
+ShiftXMap(B)=943
+ShiftYMap(B)=993
+ShiftXPos(B)=19
+ShiftYPos(B)=6
+ShiftSound(B)=Door
+ShiftXMap(C)=942
+ShiftAbsoluteTarget(C)=True
+ShiftYMap(C)=993
+ShiftXPos(C)=21
+ShiftYPos(C)=8
+ShiftSound(C)=Door
+Sign(A)=I am sick of all this filler in my anime.
+[x989y1017]
+Title=Obsidian Province
+Subtitle=Inspiring - Freeplay Music
+[x978y985]
+Title=Wizards' City
+Subtitle=Cymbals - Nifflas
+Sign(A)=Shreep: The air here constantly changes temperature, it feels weird.
+[x1001y1023]
+Title=Land of Disintegration
+Subtitle=Dark Spirit - Freeplay Music
+[x1034y1017]
+Subtitle=Obsidian - Freeplay Music
+Title=Sunken City
+[x970y1002]
+ShiftTouch(A)=True
+ShiftType(A)=2
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=929
+ShiftYMap(A)=935
+ShiftXPos(A)=12
+ShiftYPos(A)=1
+ShiftSound(A)=None
+Sign(A)=If you are prepared to face the ultimate foe, you may enter.
+[x918y988]
+Title=The Final Climax
+Subtitle=Having It All - Freeplay Music 
+Sign(A)=Hologram Malfunction.
+[x1017y1007]
+Sign(A)=Energies from all over the world are drawn to this mountain.
+[x1022y982]
+Sign(A)=We have enough ale to keelhaul the whole city!
+Sign(B)=Polly wants a cracker
+Sign2(B)=Maybe she would like some food
+Sign3(B)=She asked me to untie her
+Sign4(B)=A chase would be nice for a few.
+Sign(C)=Yarr, we're all actually sailors but its talk like a pirate day!
+[x1028y1056]
+WarpX(R)=-1
+[x1028y1055]
+WarpX(L)=1
+WarpX(R)=-1
+[x1028y1054]
+WarpX(L)=1
+WarpX(R)=-1
+[x1028y1053]
+WarpX(L)=1
+WarpX(R)=-1
+[x1028y1052]
+WarpX(L)=1
+WarpX(R)=-1
+[x1028y1051]
+WarpX(L)=1
+WarpX(R)=-1
+[x1028y1050]
+WarpX(L)=1
+WarpX(R)=-1
+[x1028y1049]
+WarpX(L)=1
+WarpX(R)=-1
+[x1028y1048]
+WarpX(L)=1
+WarpX(R)=-1
+[x1028y1047]
+WarpX(L)=1
+WarpX(R)=-1
+[x1028y1046]
+WarpX(L)=1
+WarpX(R)=-1
+[x1028y1045]
+WarpX(L)=1
+WarpX(R)=-1
+ShiftXMap(A)=-10
+ShiftYMap(A)=5
+ShiftXPos(A)=-6
+ShiftYPos(A)=-3
+ShiftType(A)=2
+ShiftTouch(A)=True
+
+
+
+[x970y1005]
+ShiftXMap(A)=30
+ShiftYMap(A)=-5
+ShiftSound(A)=Door
+Sign(A)=Looks like another rainy day.
+Subtitle=Juni's House
+[x1022y1023]
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=997
+ShiftYMap(A)=1010
+ShiftXPos(A)=19 
+ShiftYPos(A)=5
+ShiftSound(A)=Door
+ShiftType(A)=2
+ShiftTouch(A)=True
+[x1008y969]
+Title=The Cheese In The Sky
+Subtitle=Cheese In The Sky - Nifflas
+[x1004y1001]
+Sign(A)=Crystal: This cave is made of lapis lazuli.  
+[x1027y1011]
+Sign(A)=<: Gloomgrove         >: Vigilant City      V: Sunken City        ^: Den of Harmony
+[x928y1017]
+Sign(A)=Shreep: Take a look, it's in a book! 
+[x1022y1011]
+Sign(A)=It's great to get away from the city once in a while.
+Sign2(A)=Jehovah's Witnesses will never find me here.   
+[x1029y1011]
+Sign(A)=Welcome to Vigilant City West.
+[x1042y1011]
+Sign(A)=Welcome to Vigilant City East.
+[x1044y1011]
+Sign(B)=There's a badass ninja right around the corner, watch out.
+Sign(A)=The west side of the city has a large abandoned building.
+[x1048y1011]
+Sign(A)=Beware of creatures in the city park!!!
+[x1054y1011]
+Sign(A)=Chilling out, maxing, relaxing all cool
+Sign(B)=And all shootin some b-ball outside of the school.
+[x1051y1011]
+Sign(A)=I paid 50% interest on that car...... =( 
+[x1015y1052]
+Sign(A)=My life has no porpoise.
+Sign(B)=There are a few sea people that live here and they welcomed us to their town.
+[x1032y1011]
+Sign(A)=This city was built 1000 years ago.
+[x1031y1011]
+Sign(A)=Is your city run by corrupt politicians too?
+Sign(B)=Wouldn't have it any other way...
+[x1035y1011]
+Sign(A)=The building across the pond has monsters.
+[x1040y1006]
+Sign(A)=Divine Paradise lies above.
+[x1068y988]
+Sign(A)=Sir, could you call me a taxi?
+Sign(B)=Vagabond: Yes, you are a taxi.
+[x1022y1050]
+Sign(A)=I can't get rid of those things above my house.
+[x1049y1086]
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=1015
+ShiftYMap(A)=1050
+ShiftXPos(A)=8
+ShiftYPos(A)=0
+ShiftType(A)=2
+ShiftTouch(A)=True
+Sign(A)=Return to Languished Forest
+[x1037y1083]
+Sign(A)=In the deepest reaches of the sea, the first traces of consciousness rose from this temple. 
+[x1022y984]
+Sign(B)=Yarr, the baddies be in me booty!
+Sign(A)=Ye mean OUR booty!
+[x1015y1007]
+Title=Flower Furrow
+Subtitle=Lights Down Low - Freeplay Music
+[x1008y1006]
+Title=Undisturbed Crevice
+Subtitle=Time Machine - Nifflas
+[x1020y1011]
+Title=Gloomgrove
+Subtitle=Midnight Notes - Nifflas
+[x1022y1009]
+Title=Arcane Peak
+Subtitle=Strange Winter Feeling - Nifflas
+[x991y999]
+Title=City Mire
+Subtitle=En varm och mysig plats - Nifflas
+[x979y1004]
+Title=Pestilent Morass
+Subtitle=Torvus Clockwork - OCremix (DarkeSword)
+[x980y1006]
+Title=Pestilent Morass
+Subtitle=Torvus Clockwork - OCremix (DarkeSword)
+[x981y1005]
+Title=Pestilent Morass
+Subtitle=Torvus Clockwork - OCremix (DarkeSword)
+[x974y1008]
+Title=Pestilent Morass
+Subtitle=Torvus Clockwork - OCremix (DarkeSword)
+[x972y1007]
+Title=Pestilent Morass
+Subtitle=Torvus Clockwork - OCremix (DarkeSword)
+[x966y1009]
+Title=Pestilent Morass
+Subtitle=Torvus Clockwork - OCremix (DarkeSword)
+[x981y1006]
+Title=Mystic Grotto
+Subtitle=Smooth Persuasion - Freeplay Music
+[x978y1009]
+Title=Mystic Grotto
+Subtitle=Smooth Persuasion - Freeplay Music
+[x978y1008]
+Title=Mystic Grotto
+Subtitle=Smooth Persuasion - Freeplay Music
+[x978y996]
+Title=Sequin Lagoon
+Subtitle=Evening Notes - Nifflas
+Tint=0
+[x969y997]
+Title=Frigid Foothills
+Subtitle=Snowflakes In The Air - Freeplay Music
+Tint=131072
+[x955y994]
+Title=Pinewood Apex
+Subtitle=Forest Birdcussion - OCremix (Protricity)
+[x950y999]
+Title=Hiemal Soulscape
+Subtitle=Forest Birdcussion - OCremix (Protricity)
+[x947y995]
+Title=Flurry Precipice
+Subtitle=Cinnamon And Mistletoe - Freeplay Music
+[x947y994]
+Title=Crystal Kingdom
+Subtitle=Next Stop North Pole - Freeplay Music
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=944
+ShiftYMap(A)=995
+ShiftSound(A)=Door
+ShiftXPos(A)=5
+ShiftYPos(A)=8
+[x951y983]
+Title=Skystruction
+Subtitle=Crystal Liquid - Freeplay Music
+[x955y990]
+Title=Crystal Kingdom
+Subtitle=Next Stop North Pole - Freeplay Music
+[x956y990]
+Title=Fairy Forest
+Subtitle=When I Think Of Mary Ann -  Freeplay Music
+[x962y993]
+Title=Celestial Hollow
+Subtitle=Pause - Nifflas
+[x971y1007]
+Title=Sinister Sepulcher
+Subtitle=Summer Romance - Freeplay Music
+[x975y1014]
+Title=Sakura City
+Subtitle=Smooth Sunset - Freeplay Music
+[x960y1016]
+Title=Sakura City
+Subtitle=Smooth Sunset - Freeplay Music
+Sign(A)=The swamp has a tiny golden butterfly at the end.
+[x997y996]
+Title=Clover Passage
+Subtitle=Peaceful Cave With Ninjas - Nifflas
+[x1014y995]
+Title=Immersed Workshop 
+Subtitle=Unison - Freeplay Music
+[x1034y992]
+Title=Unearthly Swamp
+Subtitle=King of Cool - Freeplay Music
+[x1015y1003]
+Title=Reverberating Dysprosium Tunnel
+Subtitle=Reversed - Nifflas
+[x1025y1003]
+Title=Noxious Mountainside
+Subtitle=Very Old - Nifflas
+[x1032y1002]
+Title=Gentle Prairie
+Subtitle=Very Old - Nifflas
+[x1035y1006]
+Subtitle=Very Old - Nifflas
+[x1028y1009]
+Title=Den of Harmony 
+Subtitle=Sunset Harbor - Freeplay Music
+[x1037y993]
+Title=Divine Paradise
+Subtitle=Native Son - Freeplay Music
+[x1047y992]
+Title=Divine Paradise
+Subtitle=Native Son - Freeplay Music
+[x1033y989]
+Title=Crystalcloud Meadow
+Subtitle=Jijola Melody - Freeplay Music
+[x1033y1017]
+Title=Overgrowth Cove
+Subtitle=Maligned - Freeplay Music
+[x994y1014]
+Title=Miraculous Subterrane
+Subtitle=About The Look - Freeplay Music
+[x986y1016]
+Subtitle=About The Look - Freeplay Music
+Title=Cavern of Hibernation
+[x977y1009]
+Title=Eternity's Cleft
+Subtitle=Peacefully Sleep - Freeplay Music
+Sign(A)=The Mystic Grotto is to the right. 
+[x985y1016]
+Title=Eternity's Cleft
+Subtitle=Peacefully Sleep - Freeplay Music
+[x975y1016]
+Title=Eternity's Cleft
+Subtitle=Peacefully Sleep - Freeplay Music
+[x969y1025]
+Title=Seam Stretch
+Subtitle=Community - Freeplay Music
+[x958y1005]
+Title=The Fringe
+Subtitle=Romantic Nights	- Freeplay Music
+[x938y1005]
+Title=Cascade Sector
+Subtitle=Romantic Nights	- Freeplay Music
+Sign(A)=West: Polluted Beach and coastline.     East: The Fringe and Sinister Sepulcher.
+[x922y1007]
+Title=Polluted Beach
+Subtitle=Idyllic Place - Freeplay Music
+[x911y1007]
+Title=Dreg Peninsula
+Subtitle=Sea and Sun - Freeplay Music
+[x993y988]
+Title=Moonlit Bluffs
+Subtitle=Moonlight Forest Trip - Nifflas
+[x999y988]
+Subtitle=Moonlight Forest Trip - Nifflas
+Title=Enchanted Castle
+[x1007y990]
+Title=Moonlit Bluffs
+Subtitle=Moonlight Forest Trip - Nifflas
+[x998y991]
+Subtitle=Moonlight Forest Trip - Nifflas
+Title=Enchanted Castle
+[x995y986]
+Title=Glass Botanical Tower
+Subtitle=Wild Thoughts - Freeplay Music
+[x1002y985]
+Title=Glass Botanical Tower
+Subtitle=Wild Thoughts - Freeplay Music
+[x1007y984]
+Title=Astral Laboratory
+Subtitle=Mega Project - Nifflas
+[x1084y988]
+Title=Mysterious Metropolis
+Subtitle=One of a Hundred Million Streets - Nifflas
+[x1092y988]
+Title=Knytt Int'l Airport
+Subtitle=One of a Hundred Million Streets - Nifflas
+[x1112y988]
+Title=Effulgent City
+Subtitle=Everlasting - Freeplay Music
+Sign(A)=Crystal: the pollution on the ocean blocks out the sun.
+[x1016y989]
+Title=Storm Ridge
+Subtitle=Then A Kiss - Freeplay Music
+[x1017y988]
+Title=Storm Ridge
+Subtitle=Then A Kiss - Freeplay Music
+[x1020y989]
+Title=Windy Creek Temple
+Subtitle=Low Tide - Freeplay Music
+[x1032y989]
+Title=Revered Grounds
+Subtitle=Low Tide - Freeplay Music
+[x985y987]
+Title=Porcelain City
+Subtitle=Cafe Con Leche - Freeplay Music
+ShiftAbsoluteTarget(B)=True
+ShiftXMap(B)=980
+ShiftYMap(B)=987
+ShiftSound(B)=Door
+ShiftXPos(B)=11
+ShiftYPos(B)=4
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=980
+ShiftYMap(A)=987
+ShiftSound(A)=Door
+ShiftXPos(A)=13
+ShiftYPos(A)=8
+Sign(A)=The temple was carved out of stone from an ancient tribe.
+[x990y986]
+Title=Thunder Temple
+Subtitle=Porcelain - Freeplay Music
+[x989y980]
+Title=Thunder Temple
+Subtitle=Porcelain - Freeplay Music
+[x977y985]
+Title=The High Dimensional Rift
+Subtitle=Cymbals - Nifflas
+[x984y985]
+Title=Wizards' City
+Subtitle=Cymbals - Nifflas
+Sign(A)=The thunder temple is just ahead, and below that is a city made of clay.
+[x990y980]
+Title=Phantasm Park
+Subtitle=Nifflas - Secrets
+[x1018y1054]
+Title=Peacefrost Expanse 
+Subtitle=Hallucination - Freeplay Music
+[x1008y970]
+Title=Primordial Machine
+Subtitle=Middnattsfika - Nifflas
+[x998y966]
+Title=Primordial Machine
+Subtitle=Middnattsfika - Nifflas
+[x1001y960]
+Title=The Cheese In The Sky
+Subtitle=Cheese In The Sky - Nifflas
+[x1002y962]
+Title=Secret Moon Base
+Subtitle=Cheese In The Sky - Nifflas
+[x1003y960]
+Title=Secret Moon Base
+Subtitle=Cheese In The Sky - Nifflas
+[x1008y958]
+Title=Industrial Facility Renovation
+Subtitle=T-Beat - Nifflas
+[x992y960]
+Title=Transdimensional Pasture
+Subtitle=Mystery - Nifflas
+[x1001y982]
+Subtitle=Cold Noodles - Freeplay Music
+Title=Cosmic Moontube
+[x928y985]
+Subtitle=Heart of The Beast - Incompetech
+[x992y961]
+Title=Spirit Spiral
+Subtitle=Mystery - Nifflas
+[x1001y983]
+Sign(A)=Crystal: If you find the keys you can go check out the moon.
+[x1009y960]
+Title=Lunar Hangar
+Subtitle=Silence - Freeplay Music
+Sign(A)=Lunch break!!!
+Sign(B)=You're a jerk! 
+[x985y1003]
+Subtitle=Free Rider - Freeplay Music
+Title=Submerged Stonework
+[x986y1003]
+Title=City Mire
+Subtitle=En varm och mysig plats - Nifflas
+[x944y990]
+Title=Crystal Kingdom
+Subtitle=Next Stop North Pole - Freeplay Music
+[x1017y996]
+
+[x1048y991]
+Subtitle=Flugzeug - Nifflas
+[x1064y988]
+Subtitle=Flugzeug - Nifflas
+Title=Distorted Daymare
+[x942y991]
+ShiftYMap(A)=995
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=942
+ShiftXPos(A)=1
+ShiftYPos(A)=8
+ShiftSound(A)=Door
+ShiftType(A)=0
+[x942y993]
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=942
+ShiftYMap(A)=995
+ShiftXPos(A)=21
+ShiftYPos(A)=8
+ShiftSound(A)=Door
+ShiftType(A)=0
+[x943y993]
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=942
+ShiftYMap(A)=995
+ShiftXPos(A)=15
+ShiftYPos(A)=2
+ShiftSound(A)=Door
+Sign(A)=Shreep: I see.
+[x943y995]
+ShiftXMap(A)=944
+ShiftYMap(A)=993
+ShiftXPos(A)=20
+ShiftYPos(A)=5
+ShiftSound(A)=Door
+ShiftAbsoluteTarget(A)=True
+ShiftAbsoluteTarget(B)=True
+ShiftXMap(B)=946
+ShiftYMap(B)=993
+ShiftXPos(B)=12
+ShiftYPos(B)=8
+ShiftSound(B)=Door
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=947
+ShiftYMap(C)=993
+ShiftSound(C)=Door
+ShiftXPos(C)=14
+ShiftYPos(C)=7
+[x944y993]
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=943
+ShiftYMap(A)=995
+ShiftXPos(A)=5
+ShiftYPos(A)=8
+ShiftSound(A)=Door
+Sign(A)=The bank here gave me a good enough mortgage that I will never be able to it pay off.
+[x946y993]
+ShiftXMap(A)=943
+ShiftYMap(A)=995
+ShiftXPos(A)=12
+ShiftYPos(A)=8
+ShiftSound(A)=Door
+ShiftAbsoluteTarget(A)=True
+[x947y993]
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=943
+ShiftYMap(A)=995
+ShiftXPos(A)=23
+ShiftYPos(A)=1
+ShiftSound(A)=Door
+[x944y995]
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=947
+ShiftYMap(A)=994
+ShiftSound(A)=Door
+ShiftXPos(A)=18
+ShiftYPos(A)=6
+ShiftAbsoluteTarget(B)=True
+ShiftXMap(B)=948
+ShiftYMap(B)=993
+ShiftSound(B)=Door
+ShiftXPos(B)=16
+ShiftYPos(B)=8
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=949
+ShiftYMap(C)=993
+ShiftSound(C)=Door
+ShiftXPos(C)=13
+ShiftYPos(C)=5
+FlagWarpY(A)=1
+FlagWarpX(A)=0
+[x948y993]
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=944
+ShiftYMap(A)=995
+ShiftSound(A)=Door
+ShiftXPos(A)=11
+ShiftYPos(A)=2
+ShiftXPos(C)=13
+[x949y993]
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=944
+ShiftYMap(A)=995
+ShiftXPos(A)=22
+ShiftYPos(A)=8
+ShiftSound(A)=Door
+Sign(A)=Careful, the water here has glass in it.  
+[x952y995]
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=950
+ShiftYMap(A)=993
+ShiftSound(A)=Door
+ShiftAbsoluteTarget(B)=True
+ShiftXMap(B)=952
+ShiftYMap(B)=994
+ShiftSound(B)=Door
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=951
+ShiftYMap(C)=994
+ShiftSound(C)=Door
+ShiftXPos(C)=10
+ShiftYPos(C)=3
+ShiftXPos(B)=11
+ShiftYPos(B)=8
+ShiftXPos(A)=16
+ShiftYPos(A)=7
+Sign(B)=Reruns...
+[x951y994]
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=952
+ShiftYMap(A)=995
+ShiftSound(A)=Door
+ShiftXPos(A)=23
+ShiftYPos(A)=8
+[x950y993]
+ShiftYPos(A)=7
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=952
+ShiftYMap(A)=995
+ShiftSound(A)=Door
+ShiftXPos(A)=2
+Sign(A)=Crystal: This is the coldest city in the northern hemisphere. I grew up here.
+[x945y995]
+Sign2(A)=  
+Sign(A)=Buy Hologram for 60 Coins?
+ShiftCoin(A)=60
+Flag(A)=Power7
+FlagWarpY(A)=1
+FlagWarpX(A)=0
+ShiftYMap(A)=996
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=945
+ShiftXPos(A)=9
+ShiftYPos(A)=7
+[x945y996]
+WarpY(L)=-1
+Sign(A)=Thank you for your business!
+[x980y987]
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=985
+ShiftYMap(A)=987
+ShiftSound(A)=Door
+ShiftXPos(A)=4
+ShiftYPos(A)=7
+ShiftAbsoluteTarget(B)=True
+ShiftXMap(B)=985
+ShiftYMap(B)=987
+ShiftSound(B)=Door
+ShiftXPos(B)=22
+ShiftYPos(B)=6
+Sign(A)=People just sorta moved in and starting using what this tribe had left over.
+[x985y988]
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=981
+ShiftYMap(A)=987
+ShiftSound(A)=Door
+ShiftXPos(A)=10
+ShiftYPos(A)=7
+ShiftAbsoluteTarget(B)=True
+ShiftXMap(B)=982
+ShiftYMap(B)=987
+ShiftSound(B)=Door
+ShiftXPos(B)=1
+ShiftYPos(B)=8
+Sign(A)=They built the temple above us to worship the weather god.
+[x981y987]
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=985
+ShiftYMap(A)=988
+ShiftSound(A)=Door
+ShiftXPos(A)=6
+ShiftYPos(A)=7
+[x982y987]
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=985
+ShiftYMap(A)=988
+ShiftXPos(A)=21
+ShiftYPos(A)=7
+ShiftSound(A)=Door
+ShiftAbsoluteTarget(B)=True
+ShiftXMap(B)=986
+ShiftYMap(B)=988
+ShiftSound(B)=Door
+ShiftXPos(B)=3
+ShiftYPos(B)=7
+[x986y988]
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=982
+ShiftYMap(A)=987
+ShiftSound(A)=Door
+ShiftXPos(A)=23
+ShiftYPos(A)=4
+ShiftAbsoluteTarget(B)=True
+ShiftXMap(B)=980
+ShiftYMap(B)=988
+ShiftXPos(B)=7
+ShiftYPos(B)=5
+ShiftSound(B)=Door
+[x987y988]
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=980
+ShiftYMap(A)=988
+ShiftSound(A)=Door
+ShiftXPos(A)=15
+ShiftYPos(A)=2
+Sign(A)=This city was sculpted out of clay.    
+[x988y988]
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=981
+ShiftYMap(A)=988
+ShiftSound(A)=Door
+ShiftXPos(A)=11
+ShiftYPos(A)=8
+ShiftAbsoluteTarget(B)=True
+ShiftXMap(B)=981
+ShiftYMap(B)=988
+ShiftSound(B)=Door
+ShiftXPos(B)=23
+ShiftYPos(B)=1
+Sign(A)=Crystal: The water is so clean here unlike city water.
+[x989y988]
+ShiftYPos(B)=1
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=982
+ShiftYMap(A)=988
+ShiftXPos(A)=2
+ShiftSound(A)=Door
+ShiftYPos(A)=2
+[x980y988]
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=986
+ShiftYMap(A)=988
+ShiftSound(A)=Door
+ShiftXPos(A)=20
+ShiftYPos(A)=7
+ShiftAbsoluteTarget(B)=True
+ShiftXMap(B)=987
+ShiftYMap(B)=988
+ShiftSound(B)=Door
+ShiftXPos(B)=18
+ShiftYPos(B)=6
+[x981y988]
+ShiftYPos(B)=6
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=988
+ShiftYMap(A)=988
+ShiftSound(A)=Door
+ShiftXPos(A)=13
+ShiftYPos(A)=8
+ShiftAbsoluteTarget(B)=True
+ShiftXMap(B)=988
+ShiftYMap(B)=988
+ShiftSound(B)=Door
+ShiftXPos(B)=23
+[x982y988]
+ShiftXPos(A)=3
+ShiftYPos(A)=7
+ShiftXMap(A)=989
+ShiftAbsoluteTarget(A)=True
+ShiftYMap(A)=988
+ShiftSound(A)=Door
+ShiftAbsoluteTarget(B)=True
+ShiftXMap(B)=992
+ShiftYMap(B)=988
+ShiftSound(B)=Door
+ShiftXPos(B)=13
+ShiftYPos(B)=8
+Sign(A)=Something turned the people here into statues.
+Sign2(A)=Maybe anicent wizards?
+Sign(B)=If I was sick I'd loan you my Bug-Catching Net.
+[x918y983]
+WarpX(L)=1
+WarpX(R)=-1
+[x918y984]
+WarpX(L)=1
+WarpX(R)=-1
+[x918y985]
+WarpX(R)=-1
+WarpX(L)=1
+ShiftFlagOff(A)=Power7
+ShiftTouch(A)=True
+ShiftVisible(A)=False
+ShiftYPos(A)=1
+[x918y986]
+WarpX(L)=1
+WarpX(R)=-1
+[x850y901]
+Sign(A)=The Tutorial World - Nifflas (Remixed)
+Title=Quiescent Precipice
+Subtitle=Soul Longing - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=997
+ShiftYMap(C)=1000
+ShiftXPos(C)=1
+ShiftYPos(C)=5
+[x850y902]
+Sign(A)=Blue Cavern - Minmay
+Title=Sapphire Cave
+Subtitle=Heroes Melody - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1008
+ShiftYMap(C)=1001
+ShiftYPos(C)=4
+[x850y903]
+Sign(A)=Underground Forest - Johnny Chthonic (Remixed)
+Title=Chthonic Cavern
+Subtitle=En varm och mysig plats - Nifflas
+ShiftXMap(C)=1001
+ShiftYMap(C)=1004
+ShiftXPos(C)=24
+ShiftYPos(C)=2
+ShiftAbsoluteTarget(C)=True
+[x850y904]
+Sign(A)=Flower Garden - Nifflas (Remixed)
+Title=Flower Furrow
+Subtitle=Lights Down Low - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1015
+ShiftYMap(C)=1007
+ShiftYPos(C)=6
+[x850y905]
+Sign(A)=The Tutorial World - Nifflas (Remixed)
+Title=Undisturbed Crevice
+Subtitle=Time Machine - Nifflas
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1007
+ShiftYMap(C)=1006
+ShiftXPos(C)=14
+ShiftYPos(C)=2
+[x850y906]
+Sign(A)=Orange Grass - Nifflas (Remixed)
+Title=Ancient Veldt
+Subtitle=Time Machine - Nifflas
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=989
+ShiftYMap(C)=1008
+ShiftXPos(C)=4
+ShiftYPos(C)=8
+[x850y907]
+Sign(A)=Grey Forest of Boredom - Nifflas (Remixed)
+Title=Gloomgrove
+Subtitle=Midnight Notes - Nifflas
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1005
+ShiftYMap(C)=1010
+ShiftXPos(C)=18
+ShiftYPos(C)=3
+[x850y908]
+Sign(A)=A Walk at Night - Quincent Cartographer 
+Title=Vigilant Field
+Subtitle=Mi Corazon - Freeplay Music 
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1023
+ShiftYMap(C)=1011
+ShiftXPos(C)=2
+ShiftYPos(C)=8
+[x850y909]
+Sign(A)=A Walk at Night - Quincent Cartographer
+Title=Vigilant City
+Subtitle=Nightflight - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1041
+ShiftYMap(C)=1011
+ShiftXPos(C)=2
+ShiftYPos(C)=8
+[x850y910]
+Sign(A)=A Walk at Night - Quincent Cartographer
+Subtitle=Her Former Nightmare - Nifflas
+Title=Shrine of Vigilance
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1061
+ShiftYMap(C)=1013
+ShiftXPos(C)=3
+ShiftYPos(C)=6
+[x850y911]
+Sign(A)=Winter Garden - Nifflas (Remixed)
+Title=Majestic Garden
+Subtitle=Autumn Nights - Freeplay Music
+ShiftXMap(C)=1063
+ShiftYPos(C)=5
+ShiftYMap(C)=1021
+ShiftAbsoluteTarget(C)=True
+[x850y912]
+Sign(A)=The Empty City - Jackson 'Squee' Potter
+Title=Stark City
+Subtitle=Memei Notes - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1072
+ShiftYMap(C)=1029
+ShiftXPos(C)=0
+ShiftYPos(C)=6
+[x850y913]
+Sign(A)=Tundra - Smashy, Sofia's Winter Landscape - Nifflas (Remixed)
+Title=Numbrock Plateau
+Subtitle=Come to Light - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1074
+ShiftYMap(C)=1019
+ShiftYPos(C)=5
+[x850y914]
+Sign(A)=Red Desert Tileset - Hauke Petersen (Remixed)
+Title=Liquid Dreamscape
+Subtitle=Gently Falling Snow - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1081
+ShiftYMap(C)=1012
+ShiftXPos(C)=2
+ShiftYPos(C)=7
+[x850y915]
+Sign(A)=Sofia's Winter Landscape - Nifflas (Remixed)
+Title=Arcane Peak
+Subtitle=Strange Winter Feeling - Nifflas
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1016
+ShiftYMap(C)=1007
+ShiftXPos(C)=2
+ShiftYPos(C)=8
+[x850y916]
+Sign(A)=Poisonous Forest - Nifflas (Remixed)
+Title=City Mire
+Subtitle=En varm och mysig plats - Nifflas
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=991
+ShiftYMap(C)=1004
+ShiftXPos(C)=2
+ShiftYPos(C)=7
+[x850y917]
+Sign(A)=Swamp Things - Sergio Cornaga
+Subtitle=Free Rider - Freeplay Music
+Title=Submerged Stonework
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=983
+ShiftYMap(C)=1001
+ShiftXPos(C)=2
+ShiftYPos(C)=8
+[x850y918]
+Sign(A)=Civilization Zero - Vdweller (Remixed)
+Title=Pestilent Morass
+Subtitle=Torvus Clockwork - OCremix (DarkeSword)
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=979
+ShiftYMap(C)=1005
+ShiftXPos(C)=23
+ShiftYPos(C)=8
+[x850y919]
+Sign(A)=The Myskglurgisk Grottglufs - Nifflas (Remixed)
+Title=Mystic Grotto
+Subtitle=Smooth Persuasion - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=982
+ShiftYMap(C)=1008
+ShiftXPos(C)=20
+ShiftYPos(C)=6
+[x850y920]
+Sign(A)=Laguna - Borealis
+Title=Sequin Lagoon
+Subtitle=Evening Notes - Nifflas
+ShiftXMap(C)=986
+ShiftYMap(C)=996
+ShiftAbsoluteTarget(C)=True
+ShiftXPos(C)=19
+ShiftYPos(C)=3
+[x850y921]
+Sign(A)=Sofia's Winter Landscape - Nifflas (Remixed)
+Title=Frigid Foothills
+Subtitle=Snowflakes In The Air - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=975
+ShiftYMap(C)=996
+ShiftXPos(C)=5
+ShiftYPos(C)=5
+[x850y922]
+Sign(A)=Pinewood Heights - X_Sheep/Nifflas  (Remixed)
+Title=Pinewood Apex
+Subtitle=Forest Birdcussion - OCremix (Protricity)
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=959
+ShiftYMap(C)=996
+ShiftXPos(C)=10
+ShiftYPos(C)=6
+[x850y923]
+Sign(A)=Spooky Forest (Remixed) + Everybody Loves The Snow - Nifflas 
+Title=Hiemal Soulscape
+Subtitle=Forest Birdcussion - OCremix (Protricity)
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=952
+ShiftYMap(C)=999
+ShiftXPos(C)=0
+ShiftYPos(C)=6
+[x850y924]
+Sign(A)=Vestiges Tileset - Sergio Cornaga
+Title=Flurry Precipice
+Subtitle=Cinnamon And Mistletoe - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=947
+ShiftYMap(C)=995
+ShiftXPos(C)=2
+ShiftYPos(C)=4
+[x850y925]
+Sign(A)=Town - Elder (Remixed), Brown/Green House - Meppo  
+Title=Crystal Kingdom
+Subtitle=Next Stop North Pole - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=944
+ShiftYMap(C)=993
+ShiftXPos(C)=7
+ShiftYPos(C)=5
+[x850y926]
+Sign(A)=Bad Taste Disco - Vdweller
+Title=Club Atmos
+Subtitle=Celebrity Spotlight - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=948
+ShiftYMap(C)=991
+ShiftYPos(C)=7
+ShiftXPos(C)=2
+[x850y927]
+Sign(A)=Industial/Cityscape - Skyflyer
+Title=Skystruction
+Subtitle=Crystal Liquid - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=945
+ShiftYMap(C)=990
+ShiftXPos(C)=11
+ShiftYPos(C)=5
+[x850y928]
+Sign(A)=Montana Pascua - B-Man (Remixed)
+Title=Valley of the Frozen Moon
+Subtitle=Winter Dreams - Nifflas
+Sign(B)=Return?
+ShiftAbsoluteTarget(B)=True
+ShiftXMap(B)=972
+ShiftYMap(B)=1003
+ShiftXPos(B)=13
+ShiftYPos(B)=7
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=953
+ShiftYMap(C)=983
+ShiftYPos(C)=7
+ShiftXPos(C)=20
+[x850y929]
+Sign(A)=Forest Thin + Funghi Island - Fredrik Andersson (Remixed)
+Title=Fairy Forest
+Subtitle=When I Think Of Mary Ann -  Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=957
+ShiftYMap(C)=991
+ShiftYPos(C)=5
+ShiftXPos(C)=3
+[x850y930]
+Sign(A)=Funghi Island - Rickard Andersson (Remixed)
+Title=Celestial Hollow
+Subtitle=Pause - Nifflas
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=986
+ShiftYMap(C)=992
+ShiftXPos(C)=21
+ShiftYPos(C)=7
+[x850y931]
+Sign(A)=Hanseatic Town - Rickard Andersson
+Title=Apocalypse Guild
+Subtitle=Autumn Snow - Nifflas
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=978
+ShiftYMap(C)=994
+ShiftXPos(C)=4
+ShiftYPos(C)=6
+[x850y932]
+Sign(A)=Library - Kalm Traveller
+Title=Sestine Atheneum
+Subtitle=2hctune - Nifflas
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=927
+ShiftYMap(C)=1016
+ShiftXPos(C)=19
+ShiftYPos(C)=5
+[x850y933]
+Sign(A)=That White Place - Nifflas
+Title=Soul Attunement Palace
+Subtitle=Into The Depths - Freeplay Music
+ShiftXPos(C)=4
+ShiftYPos(C)=6
+ShiftXMap(C)=967
+ShiftYMap(C)=992
+ShiftAbsoluteTarget(C)=True
+[x850y934]
+Sign(A)=Graveyard - Kalm Traveller
+Title=Sinister Sepulcher
+Subtitle=Summer Romance - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=968
+ShiftYMap(C)=1007
+ShiftYPos(C)=4
+[x850y935]
+Sign(A)=Sakura Grafitti - Didriking
+Title=Sakura City
+Subtitle=Smooth Sunset - Freeplay Music
+ShiftXPos(C)=9
+ShiftYPos(C)=7
+ShiftXMap(C)=973
+ShiftYMap(C)=1014
+ShiftAbsoluteTarget(C)=True
+
+[x850y936]
+Sign(A)=Poisonous Forest - Nifflas (Remixed)
+Title=Blood Bog
+Subtitle=Music Box - Freeplay Music
+ShiftXPos(C)=24
+ShiftYPos(C)=7
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=952
+ShiftYMap(C)=1016
+[x850y937]
+Sign(A)=Woodcutter tileset - Elder
+Title=Halcyon Copse
+Subtitle=Torvus Clockwork - OCremix (DarkeSword)
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=964
+ShiftYMap(C)=1009
+ShiftYPos(C)=6
+[x850y938]
+Sign(A)=All-Purpose Tileset - Smashy
+Title=Fen Sanctuary
+Subtitle=Torvus Clockwork - OCremix (DarkeSword)
+ShiftXPos(C)=2
+ShiftYPos(C)=7
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=948
+ShiftYMap(C)=1010
+[x850y939]
+Sign(A)=Rough Sea Landscape - Fredrik Andersson (Remixed)
+Title=Magical Coast
+Subtitle=North & South - D Fast
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1005
+ShiftYMap(C)=994
+ShiftYPos(C)=6
+ShiftXPos(C)=2
+[x850y940]
+Sign(A)=Flower Garden - Nifflas (Remixed)
+Title=Clover Passage
+Subtitle=Peaceful Cave With Ninjas - Nifflas
+ShiftYPos(C)=5
+ShiftXPos(C)=13
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=996
+ShiftYMap(C)=994
+[x850y941]
+Sign(A)=White Forest of Beauty - Nifflas (Remixed)
+Title=Star Thicket
+Subtitle=Grey and Sad - Nifflas
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1004
+ShiftYMap(C)=998
+ShiftXPos(C)=11
+ShiftYPos(C)=7
+[x850y942]
+Sign(A)=Not Quite Dr. Cliche's Underwater Lab - Nifflas (Remixed)
+Title=Immersed Workshop 
+Subtitle=Unison - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1014
+ShiftYMap(C)=995
+ShiftYPos(C)=4
+[x850y943]
+Sign(A)=Blue Furniture - Imaddo
+Title=Shreep's House
+Subtitle=En varm och mysig plats - Nifflas
+[x850y944]
+Sign(A)=Knytt in Hobbitown - Imaddo (Remixed)
+Title=Mountainshire
+Subtitle=Lone Harvest - Incompetech
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1017
+ShiftYMap(C)=994
+ShiftXPos(C)=2
+ShiftYPos(C)=6
+[x850y945]
+Sign(A)=Spooky Forest - Nifflas (Remixed)
+Title=Hazy Grove Cave
+Subtitle=Confiant - Nurykabe
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1018
+ShiftYMap(C)=995
+ShiftXPos(C)=20
+ShiftYPos(C)=7
+[x850y946]
+Sign(A)=Middling Morass - Bonemouse+Unclesporky
+Title=Unearthly Swamp
+Subtitle=King of Cool - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1031
+ShiftYMap(C)=993
+ShiftXPos(C)=1
+ShiftYPos(C)=6
+[x850y947]
+Sign(A)=Dysprosium - Nifflas (Remixed)
+Title=Reverberating Dysprosium Tunnel
+Subtitle=Reversed - Nifflas
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1011
+ShiftYMap(C)=1002
+ShiftYPos(C)=6
+ShiftXPos(C)=14
+[x850y948]
+Sign(A)=Dysprosium - Nifflas (Remixed)
+Title=Noxious Mountainside
+Subtitle=Very Old - Nifflas
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1022
+ShiftYMap(C)=1001
+ShiftXPos(C)=24
+ShiftYPos(C)=7
+[x850y949]
+Sign(A)=Tranquil Savannah - Johnny Chthonic (Remixed)
+Title=Gentle Prairie
+Subtitle=Very Old - Nifflas
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1031
+ShiftYMap(C)=1003
+ShiftXPos(C)=1
+ShiftYPos(C)=8
+[x850y950]
+Sign(A)=Wildlands - Legolasgirl1987
+Title=Den of Harmony 
+Subtitle=Sunset Harbor - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1035
+ShiftYMap(C)=1007
+ShiftXPos(C)=12
+ShiftYPos(C)=2
+[x850y951]
+Sign(A)=White Meadows of Heaven - Oft99
+Title=Divine Paradise
+Subtitle=Native Son - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1045
+ShiftYMap(C)=997
+ShiftXPos(C)=2
+ShiftYPos(C)=6
+[x850y952]
+Sign(A)=White Meadows of Heaven - Oft99, Mehlsahlges - Nurykabe
+Title=Crystalcloud Meadow
+Subtitle=Jijola Melody - Freeplay Music
+ShiftYPos(C)=5
+ShiftXMap(C)=1038
+ShiftYMap(C)=992
+ShiftAbsoluteTarget(C)=True
+ShiftXPos(C)=23
+[x850y953]
+Sign(A)=Blue Plants - Nifflas (Remixed)
+Title=Overgrowth Cove
+Subtitle=Maligned - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1032
+ShiftYMap(C)=1017
+ShiftXPos(C)=24
+ShiftYPos(C)=3
+[x850y954]
+Sign(A)=Cave House - Emeraldfire7
+Title=Magma Town
+Subtitle=Maligned - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1020
+ShiftYMap(C)=1015
+ShiftXPos(C)=2
+ShiftYPos(C)=7
+[x850y955]
+Sign(A)=A Walk at Night - Quincent Cartographer
+Subtitle=Obsidian - Freeplay Music
+Title=Sunken City
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1049
+ShiftYMap(C)=1018
+ShiftXPos(C)=24
+ShiftYPos(C)=7
+[x850y956]
+Sign(A)=Godzilla in Town - Julian Winter, The Cave and The Disabled Machine - Nifflas (Remixed) 
+Title=City of the Dark Tide
+Subtitle=Rush Hour 3 A.M. - Nifflas
+Sign(B)=Return?
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=972
+ShiftYMap(A)=1003
+ShiftXPos(A)=13
+ShiftYPos(A)=7
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1047
+ShiftYMap(C)=1028
+ShiftXPos(C)=14
+ShiftYPos(C)=5
+[x850y957]
+Sign(A)=Cave... thing - NeonPSY
+Title=Miraculous Subterrane
+Subtitle=About The Look - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=996
+ShiftYMap(C)=1010
+ShiftXPos(C)=7
+ShiftYPos(C)=7
+[x850y958]
+Sign(A)=Olive Rock - Lingon
+Subtitle=About The Look - Freeplay Music
+Title=Cavern of Hibernation
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=985
+ShiftYMap(C)=1014
+ShiftXPos(C)=2
+ShiftYPos(C)=6
+[x850y959]
+Sign(A)=Volcanic Flats - Shawnachu
+Title=Obsidian Province
+Subtitle=Inspiring - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=996
+ShiftYMap(C)=1021
+ShiftXPos(C)=1
+ShiftYPos(C)=7
+[x850y960]
+Sign(A)=Pines - Grookie, Rainbow Realm - Lingon
+Title=Eternity's Cleft
+Subtitle=Peacefully Sleep - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=982
+ShiftYMap(C)=1016
+ShiftXPos(C)=2
+ShiftYPos(C)=7
+[x850y961]
+Sign(A)=Green Land - Elder (Remixed)
+Title=The Fringe
+Subtitle=Romantic Nights	- Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=964
+ShiftYMap(C)=1005
+ShiftXPos(C)=2
+ShiftYPos(C)=6
+[x850y962]
+Sign(A)=Lost Vegas - Johnny Chthonic
+Title=Cascade Sector
+Subtitle=Romantic Nights	- Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=939
+ShiftYMap(C)=1005
+ShiftXPos(C)=2
+ShiftYPos(C)=8
+[x850y963]
+Sign(A)=Skience - Saml,     Mine - Pie_Sniper 
+Title=Overwhelming Citadel
+Subtitle=Blipbong - Freeplay Music
+ShiftXPos(C)=2
+ShiftYPos(C)=5
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=942
+ShiftYMap(C)=1002
+[x850y964]
+Sign(A)=A Beach and a Cave - Paul 'Ripen' Naumowicz
+Title=Polluted Beach
+Subtitle=Idyllic Place - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=933
+ShiftYMap(C)=1005
+ShiftYPos(C)=7
+[x850y965]
+Sign(A)=Grassland - Paul 'Ripen' Naumowicz
+Title=Flourishing Plains
+Subtitle=Idyllic Place - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=925
+ShiftYMap(C)=1002
+ShiftXPos(C)=3
+ShiftYPos(C)=1
+[x850y966]
+Sign(A)=Community Tileset #1
+Title=Dreg Peninsula
+Subtitle=Sea and Sun - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=916
+ShiftYMap(C)=1007
+ShiftXPos(C)=1
+ShiftYPos(C)=6
+[x850y967]
+Sign(A)=Painted Desert - Smashy
+Title=Drydust Crag
+Subtitle=Island Paradise - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=907
+ShiftYMap(C)=1005
+ShiftXPos(C)=7
+ShiftYPos(C)=7
+[x850y968]
+Sign(A)=Night Castle - Igiari
+Title=Moonlit Bluffs
+Subtitle=Moonlight Forest Trip - Nifflas
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1004
+ShiftYMap(C)=992
+ShiftYPos(C)=6
+ShiftXPos(C)=2
+[x850y969]
+Sign(A)=Night Castle - Igiari
+Title=Moonlit Bluffs
+Subtitle=Moonlight Forest Trip - Nifflas
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1001
+ShiftYMap(C)=989
+ShiftXPos(C)=2
+ShiftYPos(C)=7
+[x850y970]
+Sign(A)=Spooky Purple - Nifflas,            ????? - Elder
+Title=Glass Botanical Tower
+Subtitle=Wild Thoughts - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1000
+ShiftYMap(C)=986
+ShiftXPos(C)=2
+ShiftYPos(C)=3
+[x850y971]
+Sign(A)=Decrepit Lab - Zenth, ????? - Elder
+Title=Astral Laboratory
+Subtitle=Mega Project - Nifflas
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1006
+ShiftYMap(C)=986
+ShiftYPos(C)=8
+ShiftXPos(C)=2
+[x850y972]
+Sign(A)=Wangba Village Emulation Failure - Nifflas (Remixed)
+Title=Byzant Hills
+Subtitle=Skye Cuillin - Incompetech
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1017
+ShiftYMap(C)=985
+ShiftXPos(C)=2
+ShiftYPos(C)=8
+[x850y973]
+Sign(A)=Archipeligo - AlmightyZenTaco
+Title=Tacopeligo
+Subtitle=Appalachian Sunrise - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1023
+ShiftYMap(C)=986
+ShiftXPos(C)=23
+ShiftYPos(C)=6
+[x850y974]
+Sign(A)=Pirate Ship - Paul 'Ripen' Naumowicz
+Title=Empyreal Marauder Vessel
+Subtitle=Elegy For One - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1022
+ShiftYMap(C)=982
+ShiftXPos(C)=4
+ShiftYPos(C)=8
+[x850y975]
+Sign(A)=Dreamlands - Grookie, Dreamlands Nightmare - Grookie
+Title=Distorted Daymare
+Subtitle=Flugzeug + Chip It Together - Nifflas
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1053
+ShiftYMap(C)=988
+ShiftXPos(C)=1
+ShiftYPos(C)=7
+[x850y976]
+Sign(A)=Metropolis - AlmightyZenTaco
+Title=Mysterious Metropolis
+Subtitle=One of a Hundred Million Streets - Nifflas
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1070
+ShiftYMap(C)=988
+ShiftYPos(C)=8
+ShiftXPos(C)=2
+[x850y977]
+Sign(A)=Airport - Emeraldfire7
+Title=Knytt Int'l Airport
+Subtitle=One of a Hundred Million Streets - Nifflas
+ShiftYPos(C)=7
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1092
+ShiftYMap(C)=988
+[x850y978]
+Sign(A)=Urban - B-Man
+Title=Effulgent City
+Subtitle=Everlasting - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1112
+ShiftYMap(C)=988
+ShiftXPos(C)=2
+ShiftYPos(C)=8
+[x850y979]
+Sign(A)=The Dumpyard - Community Tileset #3
+Title=Urban Wasteland
+Subtitle=Island Paradise - Freeplay Music
+[x850y980]
+Sign(A)=Poisonous Forest - Nifflas (Remixed)
+Title=Storm Ridge
+Subtitle=Then A Kiss - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1009
+ShiftYMap(C)=989
+ShiftXPos(C)=1
+ShiftYPos(C)=5
+[x850y981]
+Sign(A)=Walnut Creek - David K Newton
+Title=Windy Creek Temple
+Subtitle=Low Tide - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1018
+ShiftYMap(C)=990
+ShiftXPos(C)=24
+ShiftYPos(C)=6
+[x850y982]
+Sign(A)=Pretty Tiny Tileset - Hempuli
+Title=Revered Grounds
+Subtitle=Low Tide - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1028
+ShiftYMap(C)=989
+ShiftXPos(C)=2
+ShiftYPos(C)=8
+[x850y983]
+Sign(A)=Porcelain City - Rickard Andersson (Remixed), Clay Pottery - Bloxmaster
+Title=Porcelain City
+Subtitle=Cafe Con Leche - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=985
+ShiftYMap(C)=988
+ShiftXPos(C)=2
+ShiftYPos(C)=7
+[x850y984]
+Sign(A)=Porcelain City - Rickard Andersson (Remixed)
+Title=Thunder Temple
+Subtitle=Porcelain - Freeplay Music
+Sign(B)=Return?
+ShiftAbsoluteTarget(B)=True
+ShiftXMap(B)=972
+ShiftYMap(B)=1003
+ShiftXPos(B)=13
+ShiftYPos(B)=7
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=987
+ShiftYMap(C)=983
+ShiftYPos(C)=6
+[x850y985]
+Sign(A)=Green and Blue 2: Narrow Spaces - Chironex
+Title=The High Dimensional Rift
+Subtitle=Cymbals - Nifflas
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=967
+ShiftYMap(C)=986
+ShiftXPos(C)=10
+ShiftYPos(C)=6
+[x850y986]
+Sign(A)=Nowhere - Richard 'Arcturus' Dunn
+Title=Wizards' City
+Subtitle=Cymbals - Nifflas
+ShiftXPos(C)=2
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=979
+ShiftYMap(C)=984
+ShiftYPos(C)=5
+[x850y987]
+Sign(A)=Flower Garden - Nifflas (Remixed)
+Title=Phantasm Park
+Subtitle=Nifflas - Secrets
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=994
+ShiftYMap(C)=982
+ShiftXPos(C)=2
+ShiftYPos(C)=6
+[x850y988]
+Sign(A)=Sewn Valley - Adam
+Title=Seam Stretch
+Subtitle=Community - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=974
+ShiftYMap(C)=1018
+ShiftYPos(C)=6
+[x850y989]
+Sign(A)=Graphpaper - Silem and Blackberry Jam
+Title=Arithmetic Area
+Subtitle=Community - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=964
+ShiftYMap(C)=1022
+ShiftXPos(C)=24
+ShiftYPos(C)=4
+[x850y990]
+Sign(A)=Underwater Forest - Lingon
+Title=Unfathomable Shores
+Subtitle=Bryce Canyon - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1001
+ShiftYMap(C)=1037
+ShiftXPos(C)=15
+ShiftYPos(C)=6
+[x850y991]
+Sign(A)=Underwater Forest - Lingon (Remixed)
+Title=Languished Forest
+Subtitle=Bryce Canyon - Freeplay Music
+ShiftType(B)=2
+Sign(B)=Lingon is the only person I couldn't get ahold of to get permission for a remix, but based on  
+Sign2(B)=on his forum posts and the remixes only being small edits I'm pretty sure he would be ok with them.  
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1014
+ShiftYMap(C)=1050
+ShiftXPos(C)=1
+ShiftYPos(C)=6
+[x850y992]
+Sign(A)=Underwater Swamp - Lingon
+Title=Immersed Everglade
+Subtitle=Coral Reef - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1028
+ShiftYMap(C)=1050
+ShiftXPos(C)=3
+ShiftYPos(C)=1
+[x850y993]
+Sign(A)=Swamp Stumpin Village - Alex Silva
+Title=Surfeit Reef
+Subtitle=Unison - Freeplay Music
+ShiftXPos(C)=24
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1009
+ShiftYMap(C)=1055
+ShiftYPos(C)=7
+[x850y994]
+Sign(A)=Curly Trees - Skyflyer (Remixed)
+Title=Peacefrost Expanse 
+Subtitle=Hallucination - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1018
+ShiftYMap(C)=1056
+ShiftXPos(C)=23
+ShiftYPos(C)=7
+[x850y995]
+Sign(A)=Underwater Forest - Lingon (Remixed)
+Title=Diluted Depths
+Subtitle=Beneath the Surface - OCremix (Vigilante)
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1014
+ShiftYMap(C)=1063
+ShiftYPos(C)=5
+[x850y996]
+Sign(A)=Purrty Circlurz - Grookie
+Title=Ocean of Imagination
+Subtitle=Beneath the Surface - OCremix (Vigilante)
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1026
+ShiftYMap(C)=1068
+ShiftXPos(C)=1
+ShiftYPos(C)=5
+[x850y997]
+Sign(A)=Black - Elder
+Title=Hadal Abyss
+Subtitle=Silent Depths - Nifflas
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1030
+ShiftYMap(C)=1081
+ShiftXPos(C)=2
+ShiftYPos(C)=5
+[x850y998]
+Sign(A)=Patches and None-gus - Alex Silva, Underwater Ruins - Zenth  
+Title=Endless Chasm of Consciousness 
+Subtitle=Deep Inside - Freeplay Music 
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1036
+ShiftYMap(C)=1086
+ShiftXPos(C)=2
+ShiftYPos(C)=4
+[x850y999]
+Sign(A)=????? - Elder
+Subtitle=Cold Noodles - Freeplay Music
+Title=Cosmic Moontube
+ShiftXPos(C)=13
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1001
+ShiftYMap(C)=977
+ShiftYPos(C)=1
+[x850y1000]
+Sign(A)=Clockwork - Cody 'Komdi' Petersen
+Title=Primordial Machine
+Subtitle=Middnattsfika - Nifflas
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1009
+ShiftYMap(C)=970
+ShiftXPos(C)=23
+ShiftYPos(C)=7
+[x850y1001]
+Sign(A)=Moon Level - Fraser 'Fredulom' Mills
+Title=The Cheese In The Sky
+Subtitle=Cheese In The Sky - Nifflas
+ShiftXPos(C)=2
+ShiftYPos(C)=8
+ShiftXMap(C)=1007
+ShiftYMap(C)=967
+ShiftAbsoluteTarget(C)=True
+[x850y1002]
+Sign(A)=Pleasant Dreams + Grass is Green - Effervescentstripes (Remixed)
+Title=Spirit Spiral
+Subtitle=Mystery - Nifflas
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=994
+ShiftYMap(C)=965
+ShiftYPos(C)=6
+ShiftXPos(C)=2
+[x850y1003]
+Sign(A)=Aqua and The Blues - Effervescentstripes (Remixed)
+Title=Transdimensional Pasture
+Subtitle=Mystery - Nifflas 
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=992
+ShiftYMap(C)=960
+ShiftXPos(C)=2
+ShiftYPos(C)=6
+[x850y1004]
+Sign(A)=That Purple Place - Smashy,             Dark Mountain Lake - Nifflas 
+Title=Land of Fervorous Darkness 
+Subtitle=River Rise - Freeplay Music 
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=999
+ShiftYMap(C)=958
+ShiftXPos(C)=24
+ShiftYPos(C)=6
+[x850y1005]
+Sign(A)=Space - Elder
+Title=Secret Moon Base
+Subtitle=Cheese In The Sky - Nifflas
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1003
+ShiftYMap(C)=959
+ShiftXPos(C)=24
+ShiftYPos(C)=5
+[x850y1006]
+Sign(A)=Girders - Pip
+Title=Industrial Facility Renovation
+Subtitle=T-Beat - Nifflas
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1009
+ShiftYMap(C)=959
+ShiftXPos(C)=3
+ShiftYPos(C)=7
+[x850y1007]
+Sign(A)=Space 1-3 - Elder
+Title=Lunar Hangar
+Subtitle=Silence - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1009
+ShiftYMap(C)=960
+ShiftXPos(C)=2
+ShiftYPos(C)=7
+[x850y1008]
+Sign(A)=Orange - Saml,   Horror Tileset - B-Man 
+Title=Land of Disintegration
+Subtitle=Dark Spirit - Freeplay Music
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1009
+ShiftYMap(C)=1021
+ShiftXPos(C)=2
+ShiftYPos(C)=6
+[x850y1009]
+Sign(A)=Greenstone Halls - Oft99,              The Temple - Paul 'Ripen' Naumowicz
+Subtitle=Darkstar - Freeplay Music
+Title=Bastion of Annihilation
+ShiftAbsoluteTarget(B)=True
+ShiftXMap(B)=972
+ShiftYMap(B)=1003
+ShiftXPos(B)=13
+ShiftYPos(B)=7
+Sign(B)=Return?
+ShiftAbsoluteTarget(C)=True
+ShiftXMap(C)=1020
+ShiftYMap(C)=1020
+ShiftXPos(C)=2
+ShiftYPos(C)=6
+[x850y1010]
+Sign(A)=Same Darkness - Elder (Remixed), Curly Trees - Skyflyer (Remixed) 
+Title=Descent of Damnation
+Subtitle=Unnatural Situation - Incompetech
+[x850y1011]
+Sign(A)=Same Darkness - Elder (Remixed)
+Title=Immortal Xenogod
+Subtitle=Heart of The Beast - Incompetech
+[x886y989]
+Ending=Intro
+[x850y900]
+Subtitle=Intrinsic Elements - Freeplay Music
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=973
+ShiftYMap(A)=1003
+ShiftTouch(A)=True
+ShiftSound(A)=Electronic
+ShiftType(A)=2
+ShiftXPos(A)=-19
+ShiftYPos(A)=7
+Sign2(A)=Send any hate mail to          shreepsbetz@gmail.com
+Sign(A)=Collectables not neccessarily on the same screen, just the area. 
+Title=World 1 - Hypnotic Forest 
+[x850y1012]
+Title=The Final Climax
+Subtitle=Having It All - Freeplay Music
+Sign(A)=Same Darkness - Elder (Remixed)
+ShiftAbsoluteTarget(B)=True
+ShiftXMap(B)=972
+ShiftYMap(B)=1003
+ShiftXPos(B)=13
+ShiftYPos(B)=7
+ShiftSound(B)=Electronic
+[x1083y988]
+Sign(A)=Shreep: Fun Fact: It's not at all a good idea to stand in the middle of the street or put save points on it.
+[x886y1003]
+WarpX(L)=1
+WarpX(R)=-1
+ShiftXMap(A)=970
+ShiftYMap(A)=1002
+ShiftAbsoluteTarget(A)=True
+ShiftXPos(A)=1
+ShiftYPos(A)=6
+ShiftSound(A)=Electronic
+ShiftTouch(A)=True
+Sign(A)=Use the middle teleporter to return to Shreep's House
+ShiftType(A)=2
+ShiftFlagOn(A)=Power7
+[x886y1002]
+WarpX(L)=1
+WarpX(R)=-1
+[x886y1001]
+WarpX(L)=1
+WarpX(R)=-1
+[x886y1000]
+WarpX(L)=1
+WarpX(R)=-1
+ShiftType(A)=2
+[x886y999]
+WarpX(L)=1
+WarpX(R)=-1
+[x886y998]
+WarpX(L)=1
+WarpX(R)=-1
+[x886y997]
+WarpX(L)=1
+WarpX(R)=-1
+[x886y996]
+WarpX(L)=1
+WarpX(R)=-1
+[x886y995]
+WarpX(L)=1
+WarpX(R)=-1
+[x886y994]
+WarpX(L)=1
+WarpX(R)=-1
+[x886y993]
+WarpX(L)=1
+WarpX(R)=-1
+[x886y992]
+WarpX(L)=1
+WarpX(R)=-1
+[x886y991]
+WarpX(L)=1
+WarpX(R)=-1
+[x886y990]
+WarpX(L)=1
+WarpX(R)=-1
+[x886y989]
+WarpX(L)=1
+WarpX(R)=-1
+[x948y1009]
+Title=Fen Sanctuary
+
+
+
+[Custom Object 5]
+Image=CObj9.png
+Tile Width=72
+Tile Height=34
+Init AnimTo=3
+Init AnimSpeed=450
+
+
+[Custom Object 6]
+Image=3-4purple.png
+Bank=4
+Object=9
+Tile Width=48
+Hurts=True
+
+
+[Custom Object 7]
+Image=climaxchaser.png
+Bank=2
+Object=32
+Tile Width=24
+Hurts=True
+
+
+[Custom Object 8]
+Image=darkturtle.png
+Bank=3
+Object=3
+
+[Custom Object 9]
+Image=pinkbirdman.png
+Bank=2
+Object=25
+
+[Custom Object 10]
+Image=lavasittingbird.png
+Bank=2
+Object=30
+
+[Custom Object 11]
+Image=icebirdman.png
+Bank=2
+Object=25
+
+[Custom Object 12]
+Image=lavabirdman.png
+Bank=2
+Object=25
+
+[Custom Object 13]
+Image=bluebirdman.png
+Bank=2
+Object=25
+
+[Custom Object 14]
+Image=forestbirdman.png
+Bank=2
+Object=25
+
+[Custom Object 15]
+Image=bomberblue.png
+Bank=10
+Object=3
+Hurts=True
+
+[Custom Object 16]
+Image=bombergreen.png
+Bank=10
+Object=3
+Hurts=True
+
+[Custom Object 17]
+Image=bomberpurp.png
+Bank=10
+Object=3
+Hurts=True
+
+[Custom Object 18]
+Image=icesittingbird.png
+Bank=2
+Object=30
+
+[Custom Object 19]
+Image=greenspider.png
+Bank=4
+Object=9
+Tile Width=48
+Hurts=True
+
+[Custom Object 20]
+Image=darksittingbird.png
+Bank=2
+Object=30
+
+[Custom Object 21]
+Image=darkspider.png
+Bank=4
+Object=9
+Tile Width=48
+Hurts=True
+
+[Custom Object 22]
+Image=pinkturtle.png
+Bank=3
+Object=3
+
+[Custom Object 23]
+Image=purpturtle.png
+Bank=3
+Object=3
+
+[Custom Object 24]
+Image=tansittingbird.png
+Bank=2
+Object=30
+
+[Custom Object 25]
+Image=propellerblue.png
+Bank=2
+Object=17
+
+[Custom Object 26]
+Image=propellergreen.png
+Bank=2
+Object=17
+
+[Custom Object 27]
+Image=greenturtle.png
+Bank=3
+Object=3
+
+[Custom Object 28]
+Image=cloudturtle.png
+Bank=3
+Object=3
+
+[Custom Object 29]
+Image=blubot.png
+Bank=13
+Object=13
+
+[Custom Object 30]
+Image=bluebird.png
+Bank=2
+Object=29
+
+[Custom Object 31]
+Image=pinkbird.png
+Bank=2
+Object=29
+
+[Custom Object 32]
+Image=lavabird.png
+Bank=2
+Object=29
+
+[Custom Object 33]
+Image=Shallow1.png
+Bank=1
+Object=1
+Hurts=False
+
+[Custom Object 34]
+Image=Shallow1b.png
+Tile Width=456
+Tile Height=48
+Offset Y=12
+Init AnimRepeat=1
+
+[x945y1004]
+Tint=0
+[x947y1004]
+Tint=0
+[x969y983]
+Tint=0
+[x945y993]
+Sign(A)=I love to catch snowflakes on my tongue...
+Sign2(A)=Ahhhhhh!!!!!!!!!!!!!!!That snowflaked tasted like acid!!!!!!!!!!!!!
+Sign(B)=Vagabond: I like to come chill out here once in a blue moon.
+[x1046y991]
+Tint=2
+[x1064y1018]
+Sign(A)=TRESPASSER!
+[x1005y1004]
+Sign(A)=Beeware!!!
+[x1016y1011]
+Sign(A)=Be wary of golden creatues in your travels, like the one a couple screens west. 
+[x1069y1011]
+Sign(A)=East: Liquid Dreamscape   
+[x1047y1011]
+Sign(A)=Poor People Apartments Inc.
+[x1061y1011]
+Sign(A)=Shrine of Vigilance
+[x1062y1011]
+Sign(A)=The switch is locked in place.
+[x1067y1011]
+[x1009y1004]
+Sign(A)=<: Chthonic Cavern      >: Arcane Peak       V: Undisturbed Crevice
+[x1052y1011]
+Sign(A)=Where is Batman when you need him?
+[x1086y988]
+Sign(A)=The sodas here cost $500!
+Sign(B)=If you go past here dont say bomb, it will freak out the airport secuirty.
+[x1089y988]
+Sign(A)=I brought a bunch of candy so I could undercut the airport! 
+Sign(B)=Please no suspicious looking activity ma'am.
+[x1090y988]
+Sign(A)=Shreep: Travelling by plane is pointless for us.
+[x932y1005]
+Sign(A)=Beware of beach bums!
+[x924y1007]
+Sign(A)=Life is a beach!
+[x1006y1005]
+Sign(A)=Vagabond: These dudes built a village underneath Flower Furrow.    
+[x1007y1005]
+Sign(A)=The village sends me to Vigilant Country for supplies.
+[x1008y1005]
+Sign(A)=This city is built at the perfect spot to receive both geo and hydrothermal energy.
+[x1004y1005]
+Sign(A)=If you can find your way deep into the planet there is an umbrella there!
+[x1068y1025]
+Sign(A)=What up, I'm the vagabond.
+Sign2(A)=I like to wander the world, sometimes I stay with my friend Shreep though. 
+Sign(B)=There's a golden creature up there if you can climb up.
+Sign4(A)=If you're running around I'm sure I'll see you later.
+Sign3(A)=He's got a big place in the Star Thicket, Crystal stays there too.  
+[x1069y1026]
+Sign(A)=France gave us some dumb statue so we dumped it in the sewers.
+[x976y1006]
+Sign(A)=Shreep: It is really close to flooding here.
+[x970y997]
+Sign(A)=Vagabond: The tunnel to Crystal Kingdom is filled with monsters so be careful!
+
+[x966y998]
+Sign(A)=Mountain village or city, it's still way too cold in Crystalfrost Kingdom! 
+[x946y991]
+Sign(A)=Our music drowns out any construction noises.
+[x951y993]
+Sign(A)=I left my life savings floating above my bed.
+[x949y991]
+Sign(A)=This wine has gold in it!
+Sign(B)=Wish they would change the song...
+[x948y991]
+Sign(A)=I dropped some change earlier....
+Sign(B)=Drinks are 50% off for fairies!
+[x947y991]
+Sign(A)=There is construction going on above the club.
+[x957y991]
+Sign(A)=Crystal: This is one of my favorite places to travel to.
+[x957y990]
+Sign(A)=We fairies keep watch for the kingdom and make sure it doesn't get invaded.
+[x958y990]
+Sign(A)=We share the forest with beasts.
+Sign(B)=Travelers hardly ever pass through the Soul Attunement Palace to the east.
+[x956y989]
+Sign(A)=Fairies live 100 times longer than knytts.
+[x987y992]
+Sign(A)=Shreep: Hey Mr. Bouncy!
+[x980y992]
+Sign(A)=That water tastes like whats in my trash can.
+[x981y994]
+Sign2(A)=Now he is worshipped by everyone at the guild.
+[x976y1004]
+Sign(A)=Vagabond: The dead are restless.
+[x961y1016]
+Sign(A)=Some "urban housing" development plan this is, sewers with no houses.
+[x973y1014]
+Sign(A)=Crystal: Watch out, the middle of the city is overrun.
+Sign(B)=Vagabond: The leaves taste like cotton candy...
+Sign2(B)=Don't eat them though they're highly poisonous!!!
+[x974y1013]
+Sign(A)=That stuff that looks like pretty pink clouds is actually  deadly and horrible.
+Sign(B)=The east side of these tunnels leads to a cliffside and eventually underground.
+[x961y1012]
+Sign(A)=What up?
+[x966y1012]
+Sign(A)=Homies help homies
+[x1003y994]
+Sign(A)=Crystal: I like to climb up here to watch the sun set.
+[x1026y992]
+Sign(A)=Crystal: A short humanoid race used to live in these mountains a long time ago.
+[x1022y992]
+Sign(A)=That lab in the sea will take you under the oceans.
+[x1022y994]
+Sign(A)=I hope that global warming doesn't drown me in my sleep.
+[x1031y1003]
+Sign(A)=Vagabond: When the people here aren't busy they troll message boards for fun.  
+Sign(B)=The lakes here used to be an old sewer pond.
+Sign(C)=This prairie and mountain are based on somewhere close to home...
+[x1031y1004]
+Sign(A)=Crystal: Whats going on meow?
+Sign(B)=Welcome to our kity!
+[x1044y997]
+Sign(A)=Crystal: The whole ground feels like pillowy mounds of mashed potatoes.
+[x1042y995]
+Sign(A)=It's so serene looking up at the sky here.
+[x1046y996]
+Sign(A)=I stand watch, look out for the monsters blocking the north and east 
+[x1041y996]
+Sign(A)=This temple in the clouds has been here for almost over 100,000 years.
+[x1038y993]
+Sign(A)=If you have the eye you can walk through the clouds here.
+[x1019y1015]
+Sign(A)=Crystal: This Rock TV cable is terrible, I'm glad I don't live here. 
+[x1021y1014]
+Sign(A)=Melting ice and earthquakes has flooded the lower part of Vigilant City.
+[x1020y1013]
+Sign(A)=I wonder what this carving means...
+[x1019y1013]
+Sign(A)=Where is the colonel when I need him...
+[x1020y1015]
+Sign(A)=This lava is hotter than pluto! 
+[x995y1013]
+Sign(B)=Any deeper and there is lava!
+[x990y1014]
+Sign(A)=This place is great if you like living underground.
+[x951y1005]
+Sign(A)=Vagabond: This place is being flooded by their government.
+[x950y1005]
+Sign(A)=Stupid mayor got us in this mess...
+Sign(B)=The entrance to the water making castle is a little bit west.
+[x944y1005]
+Sign(A)=This is the mayor's office, he is currently out to lunch... FOREVER!!!!!!
+[x943y1005]
+Sign(A)=The mayor said he couldn't do anything, I believe him.
+[x1004y992]
+Sign(A)=Crystal: Moonlight always makes its way to this town.
+[x998y987]
+[x998y988]
+Sign(A)=Some workers from Crystal Kingdom built this glass skyscraper that reaches through the clouds.
+[x997y987]
+Sign(A)=Vagabond: The top of this glass tower will take you to space and to the moon.
+Sign(B)=Shreeps: The lab to the east was taken over by monsters.
+[x997y988]
+Sign(B)=Water vapor still forms clouds and rain inside this tower.
+Sign(A)=This isn't a bad spot to live, houses are a little small though...
+[x1018y985]
+Sign(A)=Vagabond: A long time ago, celtics roamed these hills.
+Sign(B)=Shreep: This dimensional plane is full of magic energies.
+[x1012y985]
+Sign(A)=Crystal: Stupid scientists abandoning their lab...
+[x1021y982]
+Sign(A)=Oh, reary? How is the creature correction coming arong?
+[x1071y988]
+Sign(A)=Crystal: The price of houses here is insane.
+[x1080y988]
+Sign(A)=There was actually a day where no one in the city was murdered.
+[x1091y988]
+Sign(A)=Zooooooooooom.... Ready for takeoff!!!!!
+[x1096y988]
+Sign(A)=If you keep going east you will wrap around the world.
+[x1108y988]
+Sign(A)=Hammer time?
+[x1102y988]
+Sign(A)=The cityscape stretches for miles.
+[x1098y988]
+Sign(A)=All the good opportunities are in the metropolis but I still like this  city.
+[x984y988]
+Sign(A)=We decided to just move in and leave the statues around as a memorial to the tribe that built this city.
+[x991y988]
+Sign(A)=The tribe that lived here is stuck in time until the decay of the planet.
+[x967y987]
+Sign(A)=Shreep: I can't see an end to the limitless void.
+[x968y987]
+Sign(A)=Those pirates brought me here but won't take me back because I drank too much!
+[x981y984]
+Sign(A)=Crystal: This is where people come from all over the world to study magic.
+[x978y983]
+Sign(A)=A gold creature lives in the alcove above.
+[x983y983]
+Sign(A)=So wait if earth is an element what is a hydrogen?
+Sign(B)=Wait white magic isn't racist?
+[x982y983]
+Sign(A)=Vagabond: Sometimes the magic energy in the sky causes chaotic and deadly storms.
+[x981y985]
+Sign(A)=Finally there is a city for wizards!
+[x992y974]
+Sign(A)=Shreep: Secret secret, I found a secret!
+[x995y982]
+Sign(A)=Theres a coin across the pond but I can't swim. :(
+[x994y983]
+Sign(B)=Do you like my cove?
+[x992y984]
+Sign(B)=Have you by any chance lost your kitty?
+Sign(A)=I can't find any plumbers around here!
+[x992y982]
+Sign(B)=They call me Taub the traitor.
+Sign(A)=That guy is evil! 
+[x994y980]
+Sign(B)=This pond is small, but deadly.
+Sign(A)=This dimension hooks back up with the glass tower below.
+[x993y980]
+Sign(A)=West is a temple and city made of porcelain, then a wizard city.
+Sign(B)=I bet there might be something good on top of the park mountain.
+[x1013y1051]
+Sign(A)=Vagabond: There are areas to the east and west you should check out before you go to the bottom.
+[x1015y1050]
+Sign(A)=Shreep: The deeper you go here, the darker it gets.
+Sign(B)=I still dont know how I'm breathing.
+[x1013y1050]
+Sign(A)=Crystal: This is actually a different dimension where you can breathe underwater.
+[x1014y1051]
+Sign(A)=I wish I could find a pineapple.
+Sign(B)=I am glad there are no sharks in this game!
+[x1015y1051]
+Sign(A)=We are safe in this little cave but there are monsters on every side.
+[x1014y1050]
+Sign(A)=This is the only city underwater, but there is a village to the west.
+[x1014y1052]
+Sign(A)=Somewhere... Beyond the sea....
+[x1023y1051]
+Sign(A)=It was a bad idea to come here.
+[x1025y1052]
+Sign(A)=It was a bad idea to come here.
+[x1011y1056]
+Sign(A)=Crystal:  I have never seen such trees grow underwater.
+[x1008y1053]
+Sign(A)=It's tough to leave with all the monsters and all...
+Sign(B)=The blue and red areas are actually fossils of 2 gigantic creatures.
+[x1007y1056]
+Sign(A)=Vagabond: That metal thing is ancient technology that the sea people used to use to gather energy.
+[x1016y1055]
+Sign(A)=Shreep: This is the most peaceful place in the sea.
+[x1021y1056]
+Sign(A)=Crystal: I love the snow, I wish I could live here.
+[x1019y1056]
+Sign(A)=The ice here contains massive energy.
+[x1021y1054]
+Sign(B)=Vagabond: The ice and snow feel so cold through my shoes.
+[x1021y1055]
+Sign(A)=This isn't a very good place to stay without a fire.
+[x1028y1064]
+Sign(A)=I hate jews.... just squidding!
+Sign(B)=Congrats on getting up here, your prize is racism!
+[x980y994]
+Sign(A)=Praise the gods!
+[x930y1016]
+Sign(A)=If you haven't found it yet the gold creature here is on any 3 sides of the library.
+[x1009y969]
+Sign(A)=Shreep: This epic and ancient structure is older than the solar system... I wonder what it was used for.
+[x993y964]
+Sign(A)=I wish it was easier to travel across the stars.
+[x991y964]
+Sign(B)=I can't fly in space.
+[x989y957]
+Sign(B)=Vagabond: It seems like parts of other universes have collided with us here.
+[x990y957]
+Sign(A)=Shreep: The universe ends here.
+[x1002y1023]
+Sign(A)=I'm too poor to move to one of the cities!
+[x1003y1023]
+Sign(A)=Shreep: I feel weaker here as well.
+Sign(B)=Crystal: It's like the soul of this land is being drained.
+Sign(C)=There is an evil castle ahead at the center of the planet that is draining its energy.
+[x1003y961]
+Sign(A)=Don't go to the bathroom in zero gravity...
+[x1005y962]
+Sign(A)=Watch your step, the moon is a long ways down.
+[x1005y961]
+Sign(A)=Welcome to the moon base!
+[x1016y962]
+Sign(A)=Vagabond: We're sailors on the moon...
+[x1017y962]
+Sign(B)=The hangar is compromised!
+[x1020y962]
+Sign(A)=All of these awesome combat mechs are broken.
+[x1029y962]
+Sign(A)=Shreep: I added a little teleporter.
+ShiftTouch(A)=True
+ShiftXMap(A)=1016
+ShiftYMap(A)=960
+ShiftXPos(A)=3
+ShiftYPos(A)=6
+ShiftAbsoluteTarget(A)=True
+ShiftType(A)=2
+[x929y985]
+Sign(A)=Stepping on my flesh has a price mortal!  
+[x925y985]
+Sign(A)=Your soul will be destroyed.
+[x927y982]
+Sign(A)=I consume dimensions and yours will be next!  
+[x920y981]
+Sign(A)=There is no one and no thing that can save you here in my dimension...
+[x918y981]
+Sign(A)=No one....
+[x918y982]
+Sign(A)=You will never see your friends again....
+[x917y988]
+Sign(A)=Succumb to my horde fool!
+[x886y988]
+Sign(A)=Nooooooooooooooooooooo!!!!!!!!!!!!!!!!!!!!!!
+Sign2(A)=You know not who you toil with!
+[x960y1009]
+Sign(A)=Uhh it's not what it looks like....
+[x966y986]
+WarpX(L)=1
+[x964y988]
+WarpX(L)=1
+[x965y987]
+WarpX(L)=1
+[x1040y998]
+WarpX(L)=1
+WarpX(R)=-1
+[x1039y1005]
+WarpX(L)=1
+WarpY(U)=1
+[x1041y1006]
+WarpY(U)=1
+[x1043y1010]
+WarpY(U)=1
+[x1037y1008]
+WarpX(L)=1
+WarpY(U)=1
+[x1036y1009]
+WarpX(L)=1
+WarpY(U)=1
+[x1035y1010]
+WarpY(U)=1
+WarpX(L)=0
+[x1034y1010]
+WarpY(U)=1
+WarpX(L)=1
+[x997y1002]
+WarpY(D)=0
+WarpX(D)=0
+FlagWarpX(A)=0
+FlagWarpY(A)=0
+[x997y1003]
+ShiftTouch(A)=True
+ShiftXMap(A)=-197
+ShiftYMap(A)=-203
+ShiftVisible(A)=False
+ShiftSave(A)=True
+ShiftEffect(A)=False
+ShiftSound(A)=None
+FlagWarpX(A)=-197
+FlagWarpY(A)=-204
+Flag(A)=Power2
+Sign(A)=Angry Spider Attacks!
+Title=Angry Spider
+[x800y800]
+ShiftVisible(A)=False
+ShiftTouch(A)=True
+ShiftSave(A)=True
+ShiftEffect(A)=False
+ShiftType(A)=0
+ShiftSound(A)=None
+ShiftYMap(A)=1
+ShiftQuantize(A)=False
+[x800y801]
+ShiftVisible(A)=False
+ShiftTouch(A)=True
+ShiftEffect(A)=False
+ShiftSave(A)=True
+ShiftQuantize(A)=False
+ShiftSound(A)=None
+ShiftYMap(A)=1
+[x800y802]
+ShiftVisible(A)=False
+ShiftTouch(A)=True
+ShiftSave(A)=True
+ShiftEffect(A)=False
+ShiftQuantize(A)=False
+ShiftYMap(A)=1
+ShiftSound(A)=None
+[x800y803]
+ShiftTouch(A)=True
+ShiftVisible(A)=False
+ShiftEffect(A)=False
+ShiftQuantize(A)=False
+ShiftSave(A)=True
+ShiftSound(A)=None
+ShiftYMap(A)=1
+[x800y804]
+ShiftVisible(A)=False
+ShiftQuantize(A)=False
+ShiftTouch(A)=True
+ShiftSave(A)=True
+ShiftEffect(A)=False
+ShiftSound(A)=None
+ShiftYMap(A)=-5
+[x800y799]
+FlagWarpX(A)=197
+WarpX(U)=197
+WarpY(U)=204
+[x973y1001]
+ShiftXMap(A)=27
+ShiftYMap(A)=-3
+ShiftEffect(A)=False
+ShiftSound(A)=Door
+Flag(A)=Power2
+WarpX(D)=-1
+ShiftSound(B)=Door
+Sign(A)=Exit?
+Sign(B)=Check out this new room I just had added on!  It's a blast! 
+ShiftXMap(B)=-32
+ShiftYMap(B)=28
+[x941y1029]
+ShiftXMap(B)=32
+ShiftYMap(B)=-29
+ShiftSound(B)=Door
+ShiftYMap(C)=-28
+ShiftXMap(C)=32
+ShiftSound(C)=Door
+[x1074y1030]
+ShiftTouch(A)=True
+ShiftQuantize(A)=False
+ShiftXMap(A)=-272
+ShiftYMap(A)=-230
+ShiftSound(A)=None
+ShiftVisible(A)=False
+ShiftType(A)=3
+Flag(A)=Power1
+FlagWarpX(A)=-273
+FlagWarpY(A)=-230
+[x802y800]
+ShiftVisible(A)=False
+ShiftTouch(A)=True
+ShiftSave(A)=True
+ShiftEffect(A)=False
+ShiftType(A)=3
+ShiftSound(A)=None
+ShiftYMap(A)=1
+ShiftQuantize(A)=False
+ShiftSound(A)=Electronic
+Sign(A)=Iron Guardian reanimates!
+Title=Iron Guardian
+[x801y801]
+ShiftVisible(A)=False
+ShiftTouch(A)=True
+ShiftSave(A)=True
+ShiftEffect(A)=False
+ShiftType(A)=3
+ShiftSound(A)=Electronic
+ShiftYMap(A)=1
+ShiftQuantize(A)=False
+[x802y802]
+ShiftVisible(A)=False
+ShiftTouch(A)=True
+ShiftSave(A)=True
+ShiftEffect(A)=False
+ShiftType(A)=3
+ShiftSound(A)=Electronic
+ShiftYMap(A)=1
+ShiftQuantize(A)=False
+[x801y803]
+ShiftVisible(A)=False
+ShiftTouch(A)=True
+ShiftSave(A)=True
+ShiftEffect(A)=False
+ShiftType(A)=3
+ShiftSound(A)=Electronic
+ShiftYMap(A)=1
+ShiftQuantize(A)=False
+[x802y804]
+ShiftVisible(A)=False
+ShiftTouch(A)=True
+ShiftSave(A)=True
+ShiftEffect(A)=False
+ShiftType(A)=3
+ShiftSound(A)=Electronic
+ShiftYMap(A)=-4
+ShiftQuantize(A)=False
+ShiftXMap(A)=-1
+[x801y800]
+WarpX(R)=271
+WarpY(R)=230
+WarpX(L)=273
+WarpY(L)=230
+[x1035y1005]
+Title=Gentle Prairie
+[x1025y1006]
+Title=Crumbling Weald
+Subtitle=Sunset at Glen - Incompetech 
+[x1028y973]
+[x1013y967]
+Title=Asteroid Field
+Sign(A)=Secret Moon Base
+ShiftXMap(A)=-10
+ShiftYMap(A)=-5
+ShiftXPos(A)=1
+ShiftYPos(A)=1
+WarpX(L)=1
+WarpX(R)=-1
+[x941y1030]
+Title=Shreep's Super Bounce House
+[x1200y800]
+Tint=1315862
+TintTrans=90
+Title=Incomprehensibly Consumed Future
+
+[x943y1030]
+WarpX(R)=-5
+[x939y1030]
+WarpX(L)=5
+[x943y1031]
+WarpX(R)=-5
+[x943y1032]
+WarpX(R)=-5
+[x943y1033]
+WarpX(R)=-5
+[x943y1034]
+WarpX(R)=-5
+[x943y1035]
+WarpX(R)=-5
+[x939y1035]
+WarpX(L)=5
+[x939y1034]
+WarpX(L)=5
+[x939y1033]
+WarpX(L)=5
+[x939y1032]
+WarpX(L)=5
+[x939y1031]
+WarpX(L)=5
+[x1030y974]
+ShiftXMap(A)=-17
+ShiftYMap(A)=5
+ShiftXPos(A)=-1
+ShiftYPos(A)=-1
+[x1013y979]
+ShiftXMap(A)=17
+ShiftYMap(A)=-5
+ShiftXPos(A)=1
+ShiftYPos(A)=1
+[x1013y973]
+Sign(A)=The Cheese In The Sky
+ShiftXMap(A)=-3
+ShiftYMap(A)=-8
+ShiftXPos(A)=-3
+ShiftYPos(A)=3
+[x1010y965]
+Sign(A)=Asteroid Field
+ShiftXMap(A)=3
+ShiftYMap(A)=8
+ShiftXPos(A)=3
+ShiftYPos(A)=-3
+[x1013y968]
+WarpX(R)=-1
+WarpX(L)=1
+[x1013y969]
+WarpX(R)=-1
+WarpX(L)=1
+[x1013y970]
+WarpX(R)=-1
+WarpX(L)=1
+[x1013y971]
+WarpX(R)=-1
+WarpX(L)=1
+[x1013y972]
+WarpX(R)=-1
+WarpX(L)=1
+[x1013y973]
+WarpX(R)=-1
+WarpX(L)=1
+[x1013y974]
+WarpX(R)=-1
+WarpX(L)=1
+[x1013y975]
+WarpX(R)=-1
+WarpX(L)=1
+[x1013y976]
+WarpX(R)=-1
+WarpX(L)=1
+[x1013y977]
+WarpX(R)=-1
+WarpX(L)=1
+[x1013y978]
+WarpX(R)=-1
+WarpX(L)=1
+[x1013y979]
+WarpX(R)=-1
+WarpX(L)=1
+[x1013y980]
+WarpX(R)=-1
+WarpX(L)=1
+[x1013y981]
+WarpX(R)=-1
+WarpX(L)=1
+[x1030y973]
+Title=XK-68
+[x1042y1000]
+Title=Vigilant Port
+[x1067y1001]
+Title=Vigilant Slums
+[x1067y1000]
+Sign(A)=Apocalypse Guild
+Sign(B)=mine/desa under zone
+Sign(C)=Enchanted Castle
+Subtitle=Hub 5 - Vigilant Port
+ShiftXMap(C)=-66
+ShiftYMap(C)=-12
+ShiftYPos(C)=0
+ShiftXPos(C)=-6
+ShiftXMap(A)=52
+ShiftYMap(A)=12
+ShiftXPos(A)=5
+ShiftYPos(A)=1
+[x1076y1000]
+Sign(A)=Relinquish power-ups and travel to Chapter 3: Shifted Sands?
+Sign(B)=Want to visit Nomad Kingdom?  Word spreads of a new technology they have invented.  
+[x1071y1000]
+Sign(A)=Relinquish power-ups and travel to Chapter 1: Salty Seas?
+Sign(B)=I'm going to the Salty Seas to defeat the King of the Pirates!  Want to join me?
+ShiftSound(C)=Door
+ShiftYMap(C)=1
+ShiftYPos(C)=-1
+ShiftXPos(C)=-9
+ShiftFlagOff(C)=Power8
+[x1074y1000]
+[x1073y1000]
+Sign(A)=Relinquish power-ups and travel to Chapter 2: The Big City?
+Sign(B)=I'm going to look for a new computer in the city!  There are many things to see and people to visit.    
+[x1118y1014]
+Sign(A)=Praise the gods!
+[x1117y1014]
+ShiftYMap(B)=3
+ShiftYPos(B)=-3
+ShiftSound(B)=Door
+ShiftXPos(B)=2
+
+[x1119y1014]
+Sign(A)=Vagabond: This is a statue of the guy who predicted the apocalypse would someday happen.
+Sign(B)=I caught a fish with my bear hands and body....
+[x1115y1014]
+Sign(B)=Ya got somethin' to say about the wings buddy?!?!
+Sign(A)=This is one of the cheapest cities to live in.
+[x1114y1014]
+ShiftXMap(A)=-186
+ShiftXPos(A)=6
+ShiftYPos(A)=11
+ShiftSound(A)=Door
+Sign(A)=This is a library full of enemies and knowledge, enter at your own peril!    
+ShiftYMap(A)=1
+[x1117y1013]
+Title=Apocalypse Guild
+Subtitle=Autumn Snow - Nifflas
+Sign(A)=The cult here believes the world will end someday.
+[x1117y1012]
+Sign(A)=Charred Funghilands
+[x1071y1001]
+ShiftTouch(A)=True
+ShiftFlagOff(A)=Power1
+ShiftSound(A)=Electronic
+ShiftType(A)=3
+ShiftTouch(B)=True
+ShiftType(B)=3
+ShiftSound(B)=Electronic
+ShiftFlagOff(B)=Power2
+ShiftTouch(C)=True
+ShiftType(C)=3
+ShiftSound(C)=Electronic
+ShiftFlagOff(C)=Power3
+[x1071y1002]
+ShiftTouch(A)=True
+ShiftFlagOff(A)=Power11
+ShiftSound(A)=Electronic
+ShiftType(A)=3
+ShiftTouch(B)=True
+ShiftType(B)=3
+ShiftSound(B)=Electronic
+ShiftFlagOff(B)=Power10
+ShiftTouch(C)=True
+ShiftType(C)=3
+ShiftSound(C)=Electronic
+ShiftFlagOff(C)=Power9
+ShiftYPos(A)=2
+ShiftYPos(B)=2
+ShiftYPos(C)=2
+[x1071y1003]
+ShiftFlagOff(A)=Power5
+ShiftSound(A)=Electronic
+ShiftType(A)=3
+ShiftTouch(B)=True
+ShiftType(B)=3
+ShiftSound(B)=Electronic
+ShiftFlagOff(B)=Power6
+ShiftTouch(C)=True
+ShiftType(C)=3
+ShiftSound(C)=Electronic
+ShiftFlagOff(C)=Power5
+ShiftYPos(A)=2
+ShiftYPos(B)=2
+ShiftYPos(C)=2
+ShiftXPos(B)=0
+ShiftXPos(A)=0
+[x1071y1004]
+ShiftTouch(A)=True
+ShiftFlagOff(A)=Power12
+ShiftSound(A)=Electronic
+ShiftType(A)=3
+ShiftTouch(B)=True
+ShiftType(B)=3
+ShiftSound(B)=Electronic
+ShiftFlagOff(B)=Power4
+ShiftTouch(C)=True
+ShiftType(C)=3
+ShiftSound(C)=Electronic
+ShiftFlagOff(C)=Power0
+ShiftYPos(A)=-1
+ShiftYPos(B)=2
+ShiftYPos(C)=3
+ShiftXMap(A)=40
+ShiftYMap(A)=8
+ShiftXPos(B)=0
+ShiftXPos(A)=5
+[x1291y991]
+Subtitle=Hub 7 - The Big City
+ShiftXMap(A)=-172
+ShiftYMap(A)=21
+ShiftXPos(A)=8
+ShiftType(A)=0
+ShiftSound(A)=Door
+ShiftXPos(B)=-3
+ShiftYPos(B)=3
+ShiftXMap(B)=9
+ShiftYMap(B)=-141
+ShiftSound(B)=Door
+Sign(A)=Apocalypse Guild
+Sign(B)=Storm Stratum
+[x1119y1012]
+Sign(A)=Vigilant Port
+ShiftXMap(A)=-52
+ShiftYMap(A)=-12
+ShiftYPos(A)=-1
+ShiftXPos(A)=-5
+Sign(B)=The Big City
+Subtitle=Hub 6 - Salty Seas
+ShiftXMap(B)=172
+ShiftYMap(B)=-21
+ShiftXPos(B)=-8
+[x1500y1000]
+ShiftXMap(B)=-521
+ShiftYMap(B)=-15
+ShiftSound(B)=Door
+ShiftXPos(B)=7
+ShiftYPos(B)=-2
+Subtitle=Hub 9 - Shifted Sands
+ShiftXMap(A)=-200
+ShiftYMap(A)=-150
+ShiftXPos(A)=13
+ShiftYPos(A)=0
+ShiftSound(A)=Door
+[x1200y1300]
+ShiftXMap(A)=-221
+ShiftYMap(A)=-315
+Sign(A)=Wizard's City
+Sign(B)=Languished Forest
+Sign(C)=wizard zone
+ShiftXMap(B)=-187
+ShiftYMap(B)=-248
+ShiftSound(B)=Door
+ShiftXPos(B)=-1
+ShiftYPos(B)=-5
+ShiftYPos(A)=-2
+ShiftXPos(A)=5
+Subtitle=Hub 11 - World of Magic
+ShiftSound(A)=Door
+[x950y900]
+Sign(A)=Secret Moon Base
+Subtitle=Hub 14 - North Pole
+Sign(B)=Unstable Simulation
+ShiftXMap(A)=53
+ShiftYMap(A)=62
+ShiftXPos(A)=8
+ShiftYPos(A)=-1
+ShiftSound(A)=Door
+ShiftXMap(B)=-50
+ShiftYMap(B)=200
+ShiftSound(B)=Door
+ShiftXPos(B)=14
+[x900y1100]
+Subtitle=Hub 15 - Unstable Simulation
+Sign(A)=North Pole
+Sign(B)=Extinguished Pureland
+ShiftXMap(A)=50
+ShiftYMap(A)=-200
+ShiftXPos(A)=-14
+ShiftSound(A)=Door
+ShiftXMap(B)=500
+ShiftYMap(B)=-300
+ShiftSound(B)=Door
+ShiftXPos(B)=-10
+ShiftYPos(B)=1
+[x1400y800]
+Subtitle=Hub 16 - Extinguished Pureland
+ShiftXMap(A)=-500
+ShiftYMap(A)=300
+ShiftSound(A)=Door
+ShiftXPos(A)=10
+Sign(A)=Unstable Simulation
+Sign(B)=Transcendant Plane
+ShiftYPos(A)=-1
+ShiftYMap(B)=-100
+ShiftSound(B)=Door
+ShiftXPos(B)=-6
+[x1000y700]
+Subtitle=Hub 18 - Exotic Exoplanet
+Sign(A)=Transcendant Plane
+Sign(B)=Space Station
+ShiftYMap(B)=-100
+ShiftSound(B)=Door
+ShiftXMap(A)=400
+ShiftXPos(A)=6
+ShiftSound(A)=Door
+ShiftXPos(B)=-4
+[x900y900]
+Sign(A)=Exotic Exoplanet
+Sign(B)=Forsaken Reaches
+ShiftXMap(A)=100
+ShiftYMap(A)=-300
+ShiftSound(A)=Door
+ShiftYMap(B)=400
+ShiftXMap(B)=100
+ShiftSound(B)=Door
+ShiftYPos(B)=-1
+ShiftXPos(B)=-7
+Subtitle=Hub 20 - Ancient Alien God 
+ShiftXPos(A)=5
+[x1000y1300]
+Subtitle=Hub 21 - Forsaken Reaches
+ShiftXMap(A)=-100
+ShiftYMap(A)=-400
+ShiftSound(A)=Door
+ShiftYPos(A)=1
+ShiftXPos(A)=7
+Sign(A)=Immortal Xenogod
+Sign(B)=Hell
+ShiftYMap(B)=200
+ShiftSound(B)=Door
+ShiftYPos(B)=1
+ShiftXPos(B)=-5
+[x1000y1500]
+Subtitle=Hub 22 - Hell
+ShiftType(A)=2
+ShiftSound(A)=Door
+ShiftSound(B)=Door
+ShiftType(B)=2
+ShiftYMap(A)=-200
+ShiftYPos(A)=-1
+ShiftXPos(A)=5
+ShiftXMap(B)=1000
+Sign(A)=Forsaken Reaches
+Sign(B)=Labryinth of Coalescence
+ShiftYMap(B)=-500
+ShiftXPos(B)=-2
+[x1300y1500]
+Sign(A)=Universe B
+Subtitle=Hub 25 - Fictional Sanctuary
+ShiftXMap(A)=700
+ShiftSound(A)=Door
+ShiftXPos(A)=1
+ShiftYMap(A)=499
+Sign(B)=Shreep's Challenge (Not yet created!)
+[x1300y850]
+Subtitle=Hub 8 - Storm Stratum
+ShiftXMap(A)=-9
+ShiftYMap(A)=141
+ShiftSound(A)=Door
+ShiftXMap(B)=200
+ShiftYMap(B)=150
+ShiftSound(B)=Door
+ShiftXPos(A)=3
+ShiftYPos(A)=-3
+ShiftXPos(B)=-13
+Sign(A)=The Big City
+Sign(B)=Shifted Sands
+[x1400y700]
+Subtitle=Hub 17 - Transcendant Plane
+Sign(A)=Extinguished Pureland
+Sign(B)=Exotic Exoplanet
+ShiftYMap(A)=100
+ShiftSound(A)=Door
+ShiftXMap(B)=-400
+ShiftSound(B)=Door
+ShiftXPos(A)=6
+ShiftXPos(B)=-6
+[x1000y600]
+ShiftTime(B)=2
+Subtitle=Hub 19 - Space Station
+ShiftYMap(A)=100
+ShiftSound(A)=Door
+ShiftXMap(B)=-100
+ShiftYMap(B)=300
+ShiftSound(B)=Door
+ShiftXPos(A)=4
+ShiftXPos(B)=-5
+[x2000y1000]
+Subtitle=Hub 23 - Labryinth of Coalescence
+Sign(A)=Hell
+Sign(B)=Universe B
+ShiftXMap(A)=-1000
+ShiftYMap(A)=500
+ShiftSound(A)=Door
+ShiftYMap(B)=999
+ShiftSound(B)=Door
+ShiftYPos(A)=0
+ShiftXPos(B)=-6
+ShiftXPos(A)=2
+[x2000y2000]
+Subtitle=Hub 1-B - Shreep's House (Universe B)
+ShiftXMap(C)=-14
+ShiftYMap(C)=15
+ShiftYPos(C)=-3
+ShiftSound(C)=Door
+[x1998y2000]
+Title=Shreep's House (Universe B)
+ShiftXMap(A)=1
+ShiftSound(A)=Door
+ShiftYMap(C)=1
+ShiftSound(C)=Door
+ShiftXMap(B)=-1
+ShiftYMap(B)=1
+ShiftSound(B)=Door
+[x2000y1999]
+Subtitle=Hub 24 - Universe B
+Sign(B)=The Creator's Sanctuary
+Sign(A)=Labryinth of Coalescence 
+ShiftYMap(A)=-999
+ShiftSound(A)=Door
+ShiftXMap(B)=-700
+ShiftYMap(B)=-499
+ShiftSound(B)=Door
+ShiftYPos(B)=0
+ShiftXPos(B)=-1
+ShiftXPos(A)=6
+[x1999y2000]
+ShiftXMap(A)=-1
+ShiftSound(A)=Door
+[x1997y2001]
+ShiftXMap(B)=1
+ShiftYMap(B)=-1
+ShiftSound(B)=Door
+[x1998y2001]
+ShiftYMap(A)=-1
+ShiftSound(A)=Door
+[x1996y2003]
+ShiftXMap(A)=30
+ShiftYMap(A)=-5
+ShiftSound(A)=Door
+[x2026y1995]
+ShiftXMap(A)=-30
+ShiftYMap(A)=8
+ShiftSound(A)=Door
+[x2026y1998]
+ShiftXMap(A)=-30
+ShiftYMap(A)=5
+ShiftSound(A)=Door
+[x2025y1998]
+Title=Quiescent Precipice (Universe B)
+[x1998y1999]
+ShiftXMap(A)=28
+ShiftYMap(A)=-3
+ShiftSound(A)=Door
+[x2026y1996]
+ShiftXMap(A)=-28
+ShiftYMap(A)=3
+ShiftSound(A)=Door
+[x900y1101]
+Title=Arithmetic Area
+Subtitle=Community - Freeplay Music
+[x905y1104]
+Title=Arithmetic Area
+Subtitle=Community - Freeplay Music
+[x1218y1277]
+Title=Seam Stretch
+Subtitle=Community - Freeplay Music
+[x1213y1287]
+Title=Seam Stretch
+Subtitle=Community - Freeplay Music
+
+[x1986y2015]
+ShiftXMap(A)=2000
+ShiftYMap(A)=2000
+ShiftXMap(B)=-2
+ShiftYPos(B)=1
+ShiftYMap(B)=-19
+ShiftSound(B)=Door
+ShiftXPos(A)=12
+ShiftYPos(A)=6
+ShiftSound(A)=Door
+ShiftSound(C)=Door
+ShiftYMap(C)=-19
+ShiftYPos(C)=0
+ShiftAbsoluteTarget(A)=True
+ShiftXPos(B)=-9
+ShiftXPos(C)=-6
+Subtitle=Hub 1-B - Sakura City (Universe B)
+ShiftXMap(C)=-2
+[x1984y1996]
+ShiftXMap(A)=43
+ShiftYMap(A)=-9
+ShiftSound(A)=Door
+ShiftXMap(C)=2
+ShiftYMap(C)=19
+ShiftXPos(C)=2
+ShiftSound(C)=Door
+ShiftYPos(C)=-1
+Subtitle=Hub 3-B - Pinewood (Universe B)
+ShiftXPos(A)=-6
+ShiftYPos(A)=0
+ShiftXMap(B)=-987
+ShiftYMap(B)=-987
+ShiftSound(B)=Door
+[x2027y1987]
+ShiftXMap(B)=-43
+ShiftYMap(B)=9
+ShiftSound(B)=Door
+ShiftXPos(B)=5
+ShiftXMap(C)=38
+ShiftYMap(C)=32
+ShiftXPos(C)=-17
+ShiftYPos(C)=3
+ShiftSound(C)=Door
+ShiftSound(A)=Door
+ShiftXPos(A)=5
+ShiftYPos(A)=8
+ShiftXMap(A)=66
+ShiftYMap(A)=11
+[x2005y1992]
+ShiftXMap(C)=2
+ShiftYMap(C)=19
+ShiftXPos(C)=9
+ShiftSound(C)=Door
+ShiftYPos(C)=9
+ShiftXMap(B)=39
+ShiftYMap(B)=12
+ShiftSound(B)=Door
+ShiftXMap(A)=43
+ShiftYMap(A)=-9
+[x1120y1012]
+Sign(A)=Sail to Tropical Settlement?
+Sign(B)=Sail to rainforest?
+Sign(C)=Sail to Flourishing Plains?
+ShiftXMap(C)=-7
+ShiftYMap(C)=24
+ShiftSound(C)=Door
+ShiftXPos(C)=-14
+ShiftXMap(B)=-7
+ShiftYMap(B)=43
+ShiftSound(B)=Door
+ShiftXPos(B)=7
+ShiftXMap(A)=-8
+ShiftYMap(A)=99
+ShiftSound(A)=Door
+ShiftXPos(A)=1
+[x1113y1034]
+Title=Flourishing Plains
+Subtitle=Idyllic Place - Freeplay Music
+[x1412y800]
+Title=Byzant Hills
+Subtitle=Skye Cuillin - Incompetech
+[x1422y801]
+Sign(A)=Vagabond: A long time ago, celtics roamed these hills.
+Sign(B)=Shreep: This dimensional plane is full of magic energies.
+[x1132y999]
+Title=Tacopeligo
+Subtitle=Appalachian Sunrise - Freeplay Music
+Tint=0
+[x1025y691]
+Title=Land of Fervorous Darkness 
+Subtitle=River Rise - Freeplay Music
+[x1121y1012]
+Sign(A)=Sail to Tacopelago?
+Sign(B)=Sail to Rugged Hills?
+Sign(C)=Sail to Volcanic Islands?
+ShiftXMap(A)=-5
+ShiftYMap(A)=-13
+ShiftSound(A)=Door
+ShiftXPos(A)=7
+ShiftXMap(C)=-8
+ShiftYMap(C)=64
+ShiftSound(C)=Door
+ShiftXPos(C)=-14
+ShiftXMap(B)=-8
+ShiftYMap(B)=143
+ShiftXPos(B)=-6
+[x1117y1017]
+ShiftYMap(A)=-3
+ShiftYPos(A)=3
+ShiftXPos(A)=-2
+ShiftSound(A)=Door
+[x1113y1036]
+ShiftXMap(A)=7
+ShiftYMap(A)=-24
+ShiftXPos(A)=14
+ShiftSound(A)=Door
+[x1122y1012]
+Sign(A)=Sail to Isle of Blood?
+ShiftXMap(A)=-13
+ShiftYMap(A)=188
+[x1116y999]
+ShiftXMap(A)=5
+ShiftYMap(A)=13
+ShiftSound(A)=Door
+ShiftXPos(A)=-7
+[x1113y1055]
+ShiftXMap(A)=7
+ShiftYMap(A)=-43
+ShiftSound(A)=Door
+ShiftXPos(A)=-7
+[x1112y1111]
+ShiftXMap(A)=8
+ShiftYMap(A)=-99
+ShiftXPos(A)=-1
+ShiftSound(A)=Door
+[x1113y1076]
+ShiftYMap(A)=-64
+ShiftSound(A)=Door
+ShiftXPos(A)=14
+ShiftXMap(A)=8
+[x1113y1155]
+ShiftXMap(B)=8
+ShiftYMap(B)=-143
+ShiftXPos(B)=6
+ShiftSound(B)=Door
+[x1109y1200]
+ShiftXMap(A)=13
+ShiftYMap(A)=-188
+ShiftSound(A)=Door
+[x999y1300]
+Sign(A)=Work, sleep, eat, work, sleep, eat, work sleep eat, work.......
+[x1007y1298]
+Title=Soul Attunement Palace
+Subtitle=Into The Depths - Freeplay Music
+[x1007y1299]
+[x1007y1300]
+Sign(A)=Chop chop dig dig chop chop dig dig
+[x998y1300]
+Title=Soul Attunement Palace
+Subtitle=Into The Depths - Freeplay Music
+[x1025y1305]
+Title=Land of Disintegration
+Subtitle=Dark Spirit - Freeplay Music
+[x1026y1305]
+Sign(A)=I'm too poor to move to one of the cities!
+[x1027y1305]
+Sign(A)=Shreep: I feel weaker here as well.
+Sign(B)=Crystal: It's like the soul of this land is being drained.
+Sign(C)=There is an evil castle ahead that is draining the land's energy.
+[x900y1104]
+ShiftAbsoluteTarget(A)=True
+ShiftXMap(A)=997
+ShiftYMap(A)=1010
+ShiftXPos(A)=19 
+ShiftYPos(A)=5
+ShiftSound(A)=Door
+ShiftType(A)=2
+ShiftTouch(A)=True
+[x1036y971]
+Title=XK-68 City
+Subtitle=XK-68
+[x1045y972]
+Title=XK-68 Aquifer
+[x1035y934]
+ShiftSound(A)=Door
+ShiftYPos(A)=-1
+ShiftXPos(A)=-1
+ShiftXMap(A)=-20
+ShiftYMap(A)=49
+[x1015y983]
+ShiftXMap(A)=20
+ShiftYMap(A)=-49
+ShiftSound(A)=Door
+[x1076y1006]
+Title=Dusty Quarry
+[x1087y1006]
+Title=Mesa Village
+[x1044y1006]
+Title=Forgotten Underpass
+Tint=2368561
+TintTrans=100
+[x1086y1019]
+Title=Ravenous Rapids
+[x1132y1008]
+Title=Frosted Backwood
+[x2029y1996]
+Title=Star Thicket (Universe B)
+[x2021y2002]
+Title=City Mire (Universe B)
+[x2021y2004]
+Title=Ancient Veldt (Universe B)
+[x2023y1994]
+Title=Clover Passage (Universe B)
+[x1495y1000]
+Title=Purramid
+[x1307y855]
+Title=Olive Mist Forest
+Subtitle=Incompetech - Sad Trio
+[x851y900]
+Title=World 2 - Hinterland Mountain Range 
+[x852y900]
+Title=World 3 - Vigilant Country
+[x853y900]
+Title=World 4 - Jagged Summit
+[x854y900]
+Title=World 5 - Sakura Everglades
+[x855y900]
+Title=World 6 - Commercialized Coast
+[x856y900]
+Title=World 7 - Crystalfrost Kingdom
+[x857y900]
+Title=World 8 - The Underearth
+[x858y900]
+Title=World 9 - Salty Seas
+[x859y900]
+Title=World 10 - The Big City
+[x860y900]
+Title=World 11 - Storm Stratum  
+[x861y900]
+Title=World 12 - Shifted Sands  
+[x862y900]
+Title=World 13 - Fantasy Highlands  
+[x863y900]
+Title=World 14 - Celtic Realm  
+[x864y900]
+Title=World 15 - World of Wizards  
+[x865y900]
+Title=World 16 - Oceanic Dream  
+[x866y900]
+Title=World 17 - Beyond Heaven's Void 
+[x867y900]
+Title=World 18 - North Pole  
+[x868y900]
+Title=World 19 - Unstable Simulation  
+[x869y900]
+Title=World 20 - Extinguished Pureland  
+[x870y900]
+Title=World 21 - Transcendant Plane  
+[x871y900]
+Title=World 22 - Exotic Exoplanet
+[x872y900]
+Title=World 23 - Ancient Alien God
+[x873y900]
+Title=World 24 - Forsaken Reaches
+[x874y900]
+Title=World 25 - Hell
+[x875y900]
+Title=World 26 - Labryinth of Coalescence
+[x876y900]
+Title=World 27 - Alternate Universe
+[x877y900]
+Title=World 28 - Fictional Sanctuary
